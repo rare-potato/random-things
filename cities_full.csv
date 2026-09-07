@@ -1,0 +1,998 @@
+City,Country,Latitude,Longitude,Population,IANA_Timezone,UTC_Offset_Standard,UTC_Offset_DST,Has_DST,Founded_Year,Founded_Note
+Tokyo,Japan,35.6762,139.6503,9733276,Asia/Tokyo,+09:00,+09:00,False,1457,Edo Castle founded by Ota Dokan; city renamed Tokyo in 1868
+Delhi,India,28.7041,77.1025,11034555,Asia/Kolkata,+05:30,+05:30,False,,
+Shanghai,China,31.2304,121.4737,24874500,Asia/Shanghai,+08:00,+08:00,False,1291,Established as a county seat during the Yuan dynasty
+Sao Paulo,Brazil,-23.5505,-46.6333,12400232,America/Sao_Paulo,-03:00,-03:00,False,1554,Founded by Jesuit missionaries
+Mexico City,Mexico,19.4326,-99.1332,12294193,America/Mexico_City,-06:00,-06:00,False,1325,Tenochtitlan founded by the Aztecs; refounded by Spanish 1521
+Cairo,Egypt,30.0444,31.2357,9606916,Africa/Cairo,+02:00,+03:00,True,969,Fatimid founding of Cairo (earlier Fustat founded 641 CE)
+Mumbai,India,19.076,72.8777,12691836,Asia/Kolkata,+05:30,+05:30,False,1661,Transferred to English crown; older fishing settlements predate this
+Beijing,China,39.9042,116.4074,18960744,Asia/Shanghai,+08:00,+08:00,False,-1045,"Traditional founding of the ancient state of Ji, precursor settlement"
+Dhaka,Bangladesh,23.8103,90.4125,10356500,Asia/Dhaka,+06:00,+06:00,False,1608,Established as Mughal provincial capital (Jahangirnagar)
+Osaka,Japan,34.6937,135.5023,2753862,Asia/Tokyo,+09:00,+09:00,False,645,Ancient Naniwa capital era
+New York,United States,40.7128,-74.006,8804190,America/New_York,-05:00,-04:00,True,1624,Founded as New Amsterdam by the Dutch
+Karachi,Pakistan,24.8607,67.0011,11624219,Asia/Karachi,+05:00,+05:00,False,1729,Kolachi fishing village founded
+Buenos Aires,Argentina,-34.6037,-58.3816,2891082,America/Argentina/Buenos_Aires,-03:00,-03:00,False,1580,Second (permanent) founding by Juan de Garay; first attempt 1536
+Chongqing,China,29.4316,106.9123,7457599,Asia/Shanghai,+08:00,+08:00,False,-314,Jiangzhou established in the Qin dynasty
+Istanbul,Turkey,41.0082,28.9784,15701602,Europe/Istanbul,+03:00,+03:00,False,-660,Byzantium founded by Greek colonists
+Kolkata,India,22.5726,88.3639,4631392,Asia/Kolkata,+05:30,+05:30,False,1690,"Founded by Job Charnock, British East India Company"
+Manila,Philippines,14.5995,120.9842,1600000,Asia/Manila,+08:00,+08:00,False,1571,Spanish founding by Miguel Lopez de Legazpi
+Lagos,Nigeria,6.5244,3.3792,15388000,Africa/Lagos,+01:00,+01:00,False,,
+Rio de Janeiro,Brazil,-22.9068,-43.1729,6747815,America/Sao_Paulo,-03:00,-03:00,False,,
+Tianjin,China,39.3434,117.3616,11090314,Asia/Shanghai,+08:00,+08:00,False,1404,Ming dynasty garrison town established
+Kinshasa,DR Congo,-4.4419,15.2663,16000000,Africa/Kinshasa,+01:00,+01:00,False,1881,Founded by Henry Morton Stanley as Leopoldville
+Guangzhou,China,23.1291,113.2644,16096724,Asia/Shanghai,+08:00,+08:00,False,-214,Qin dynasty administrative center established
+Los Angeles,United States,34.0522,-118.2437,3820914,America/Los_Angeles,-08:00,-07:00,True,1781,Founded as a Spanish pueblo (El Pueblo de Nuestra Senora la Reina de los Angeles)
+Moscow,Russia,55.7558,37.6173,10381222,Europe/Moscow,+03:00,+03:00,False,1147,First mentioned in chronicles
+Shenzhen,China,22.5431,114.0579,17494398,Asia/Shanghai,+08:00,+08:00,False,1979,Designated a Special Economic Zone; fishing village existed earlier
+Lahore,Pakistan,31.5497,74.3436,13004135,Asia/Karachi,+05:00,+05:00,False,,
+Bangalore,India,12.9716,77.5946,8495492,Asia/Kolkata,+05:30,+05:30,False,1537,Founded by Kempe Gowda I
+Paris,France,48.8566,2.3522,2138551,Europe/Paris,+01:00,+02:00,True,-250,"Parisii settlement, Lutetia"
+Bogota,Colombia,4.711,-74.0721,7674366,America/Bogota,-05:00,-05:00,False,1538,Founded by Gonzalo Jimenez de Quesada
+Jakarta,Indonesia,-6.2088,106.8456,8540121,Asia/Jakarta,+07:00,+07:00,False,1527,Founded as Jayakarta; Dutch Batavia established 1619
+Chennai,India,13.0827,80.2707,4681087,Asia/Kolkata,+05:30,+05:30,False,1639,Madras founded by the British East India Company
+Lima,Peru,-12.0464,-77.0428,7737002,America/Lima,-05:00,-05:00,False,1535,Founded by Francisco Pizarro
+Bangkok,Thailand,13.7563,100.5018,5104476,Asia/Bangkok,+07:00,+07:00,False,1782,Founded as capital by Rama I
+Seoul,South Korea,37.5665,126.978,10349312,Asia/Seoul,+09:00,+09:00,False,,
+Nagoya,Japan,35.1815,136.9066,2332176,Asia/Tokyo,+09:00,+09:00,False,1610,"Nagoya Castle built, city founded around it"
+Hyderabad,India,17.385,78.4867,6993262,Asia/Kolkata,+05:30,+05:30,False,1591,Founded by Muhammad Quli Qutb Shah
+London,United Kingdom,51.5074,-0.1278,8961989,Europe/London,+00:00,+01:00,True,47,Roman Londinium founded
+Tehran,Iran,35.6892,51.389,7153309,Asia/Tehran,+03:30,+03:30,False,,
+Chicago,United States,41.8781,-87.6298,2664452,America/Chicago,-06:00,-05:00,True,1833,Incorporated as a town
+Chengdu,China,30.5728,104.0668,13568357,Asia/Shanghai,+08:00,+08:00,False,,
+Nanjing,China,32.0603,118.7969,9314685,Asia/Shanghai,+08:00,+08:00,False,229,Became capital of Eastern Wu dynasty
+Wuhan,China,30.5928,114.3055,10392693,Asia/Shanghai,+08:00,+08:00,False,,
+Ho Chi Minh City,Vietnam,10.8231,106.6297,14002598,Asia/Ho_Chi_Minh,+07:00,+07:00,False,1698,Saigon founded by Nguyen lords
+Luanda,Angola,-8.839,13.2894,2776168,Africa/Luanda,+01:00,+01:00,False,1576,Founded by the Portuguese
+Ahmedabad,India,23.0225,72.5714,6357693,Asia/Kolkata,+05:30,+05:30,False,1411,Founded by Sultan Ahmed Shah
+Kuala Lumpur,Malaysia,3.139,101.6869,1453975,Asia/Kuala_Lumpur,+08:00,+08:00,False,1857,Founded as a tin-mining settlement
+Xian,China,34.3416,108.9398,9600000,Asia/Shanghai,+08:00,+08:00,False,-202,Chang'an established as Han dynasty capital
+Hong Kong,China,22.3193,114.1694,7396076,Asia/Hong_Kong,+08:00,+08:00,False,1841,Ceded as a British colony
+Dongguan,China,23.043,113.7633,9644871,Asia/Shanghai,+08:00,+08:00,False,,
+Hangzhou,China,30.2741,120.1551,9236032,Asia/Shanghai,+08:00,+08:00,False,-221,Qin dynasty county established
+Foshan,China,23.0218,113.1219,9042509,Asia/Shanghai,+08:00,+08:00,False,,
+Shenyang,China,41.8057,123.4315,7050000,Asia/Shanghai,+08:00,+08:00,False,,
+Riyadh,Saudi Arabia,24.7136,46.6753,4205961,Asia/Riyadh,+03:00,+03:00,False,,
+Baghdad,Iraq,33.3152,44.3661,7216000,Asia/Baghdad,+03:00,+03:00,False,762,Founded by Caliph al-Mansur
+Santiago,Chile,-33.4489,-70.6693,4837295,America/Santiago,-03:00,-04:00,True,1541,Founded by Pedro de Valdivia
+Surat,India,21.1702,72.8311,4591246,Asia/Kolkata,+05:30,+05:30,False,,
+Madrid,Spain,40.4168,-3.7038,3255944,Europe/Madrid,+01:00,+02:00,True,865,Muslim fortress of Mayrit established
+Suzhou,China,31.2989,120.5853,6715559,Asia/Shanghai,+08:00,+08:00,False,-514,Ancient capital of the state of Wu
+Pune,India,18.5204,73.8567,3124458,Asia/Kolkata,+05:30,+05:30,False,,
+Harbin,China,45.8038,126.535,5242897,Asia/Shanghai,+08:00,+08:00,False,1898,Founded with the Chinese Eastern Railway
+Houston,United States,29.7604,-95.3698,2314157,America/Chicago,-06:00,-05:00,True,1836,Founded
+Dallas,United States,32.7767,-96.797,1326087,America/Chicago,-06:00,-05:00,True,1841,Founded
+Toronto,Canada,43.6532,-79.3832,2794356,America/Toronto,-05:00,-04:00,True,1793,Founded as the town of York
+Dar es Salaam,Tanzania,-6.7924,39.2083,5383728,Africa/Dar_es_Salaam,+03:00,+03:00,False,1862,Founded by Sultan Majid of Zanzibar
+Miami,United States,25.7617,-80.1918,487014,America/New_York,-05:00,-04:00,True,1896,Incorporated
+Belo Horizonte,Brazil,-19.9167,-43.9345,2721564,America/Sao_Paulo,-03:00,-03:00,False,1897,Founded as a planned state capital
+Singapore,Singapore,1.3521,103.8198,5638700,Asia/Singapore,+08:00,+08:00,False,1819,Founded by Stamford Raffles (earlier settlement Temasek existed)
+Philadelphia,United States,39.9526,-75.1652,1573916,America/New_York,-05:00,-04:00,True,1682,Founded by William Penn
+Atlanta,United States,33.749,-84.388,510823,America/New_York,-05:00,-04:00,True,1837,Founded
+Fukuoka,Japan,33.5904,130.4017,1612392,Asia/Tokyo,+09:00,+09:00,False,,
+Khartoum,Sudan,15.5007,32.5599,1974647,Africa/Khartoum,+02:00,+02:00,False,1821,Founded by the Egyptian army under Muhammad Ali
+Barcelona,Spain,41.3851,2.1734,1686208,Europe/Madrid,+01:00,+02:00,True,-15,Roman Barcino founded
+Johannesburg,South Africa,-26.2041,28.0473,9418183,Africa/Johannesburg,+02:00,+02:00,False,1886,Founded after the discovery of gold
+Saint Petersburg,Russia,59.9343,30.3351,5351935,Europe/Moscow,+03:00,+03:00,False,1703,Founded by Peter the Great
+Qingdao,China,36.0671,120.3826,7172451,Asia/Shanghai,+08:00,+08:00,False,1891,Established as a German-leased settlement/fortress
+Dalian,China,38.914,121.6147,4913879,Asia/Shanghai,+08:00,+08:00,False,1899,Founded by Russia as Dalny
+Washington,United States,38.9072,-77.0369,689545,America/New_York,-05:00,-04:00,True,1790,Founded as the new federal capital
+Yangon,Myanmar,16.8409,96.1735,4477638,Asia/Yangon,+06:30,+06:30,False,1755,Founded by King Alaungpaya on the site of older Dagon
+Alexandria,Egypt,31.2001,29.9187,5263542,Africa/Cairo,+02:00,+03:00,True,-331,Founded by Alexander the Great
+Guadalajara,Mexico,20.6597,-103.3496,1385629,America/Mexico_City,-06:00,-06:00,False,1542,Founded by the Spanish
+Ankara,Turkey,39.9334,32.8597,3517182,Europe/Istanbul,+03:00,+03:00,False,,
+Chittagong,Bangladesh,22.3569,91.7832,3920222,Asia/Dhaka,+06:00,+06:00,False,,
+Addis Ababa,Ethiopia,9.03,38.74,3860000,Africa/Addis_Ababa,+03:00,+03:00,False,1886,Founded by Emperor Menelik II
+Melbourne,Australia,-37.8136,144.9631,5435590,Australia/Melbourne,+11:00,+10:00,True,1835,Founded by free settlers
+Nairobi,Kenya,-1.2921,36.8219,4397073,Africa/Nairobi,+03:00,+03:00,False,1899,Founded as a railway depot
+Hanoi,Vietnam,21.0285,105.8542,8053663,Asia/Bangkok,+07:00,+07:00,False,1010,"Founded as Thang Long, capital of the Ly dynasty"
+Sydney,Australia,-33.8688,151.2093,5638830,Australia/Sydney,+11:00,+10:00,True,1788,Founded as a British penal colony
+Monterrey,Mexico,25.6866,-100.3161,1135512,America/Monterrey,-06:00,-06:00,False,1596,Founded by the Spanish
+Changsha,China,28.2282,112.9388,3093980,Asia/Shanghai,+08:00,+08:00,False,,
+Brasilia,Brazil,-15.8267,-47.9218,2207718,America/Sao_Paulo,-03:00,-03:00,False,1960,Inaugurated as Brazil's planned capital
+Porto Alegre,Brazil,-30.0346,-51.2177,1488252,America/Sao_Paulo,-03:00,-03:00,False,1772,Founded
+Kabul,Afghanistan,34.5553,69.2075,4434550,Asia/Kabul,+04:30,+04:30,False,,
+Zhengzhou,China,34.7466,113.6254,4253913,Asia/Shanghai,+08:00,+08:00,False,,
+Salvador,Brazil,-12.9777,-38.5016,2711840,America/Bahia,-03:00,-03:00,False,1549,Founded as the first colonial capital of Brazil
+Kuwait City,Kuwait,29.3759,47.9774,60064,Asia/Kuwait,+03:00,+03:00,False,1613,Founded
+Xiamen,China,24.4798,118.0894,4617251,Asia/Shanghai,+08:00,+08:00,False,1387,Ming dynasty fort established
+Boston,United States,42.3601,-71.0589,653833,America/New_York,-05:00,-04:00,True,1630,Founded by Puritan settlers
+Recife,Brazil,-8.0476,-34.877,1653461,America/Recife,-03:00,-03:00,False,1537,Founded by the Portuguese
+Kano,Nigeria,12.0022,8.592,4910000,Africa/Lagos,+01:00,+01:00,False,999,Traditional founding date of the Hausa city-state
+Abidjan,Ivory Coast,5.36,-4.0083,6321017,Africa/Abidjan,+00:00,+00:00,False,1903,Grew as a railway town; earlier village existed
+Ningbo,China,29.8683,121.544,3731203,Asia/Shanghai,+08:00,+08:00,False,,
+Yaounde,Cameroon,3.848,11.5021,1299369,Africa/Douala,+01:00,+01:00,False,1888,Founded by German colonists as a trading post
+Guiyang,China,26.647,106.6302,3037159,Asia/Shanghai,+08:00,+08:00,False,,
+Jeddah,Saudi Arabia,21.4858,39.1925,4697000,Asia/Riyadh,+03:00,+03:00,False,647,Established as a Red Sea port under Caliph Uthman
+Casablanca,Morocco,33.5731,-7.5898,3665954,Africa/Casablanca,+01:00,+01:00,False,1770,Rebuilt by Sultan Mohammed III after earlier settlement's destruction
+Kanpur,India,26.4499,80.3319,2823249,Asia/Kolkata,+05:30,+05:30,False,,
+Phoenix,United States,33.4484,-112.074,1650070,America/Phoenix,-07:00,-07:00,False,1868,Founded
+Jaipur,India,26.9124,75.7873,3046163,Asia/Kolkata,+05:30,+05:30,False,1727,Founded by Sawai Jai Singh II
+Fortaleza,Brazil,-3.7172,-38.5433,2400000,America/Fortaleza,-03:00,-03:00,False,1726,Refounded; original fort established 1649
+Nanning,China,22.817,108.3665,3839800,Asia/Shanghai,+08:00,+08:00,False,,
+Rome,Italy,41.9028,12.4964,2318895,Europe/Rome,+01:00,+02:00,True,-753,Traditional founding date of Rome
+Curitiba,Brazil,-25.4284,-49.2733,1948626,America/Sao_Paulo,-03:00,-03:00,False,1693,Founded
+Shantou,China,23.3535,116.6822,3838900,Asia/Shanghai,+08:00,+08:00,False,,
+Havana,Cuba,23.1136,-82.3666,2163824,America/Havana,-05:00,-04:00,True,1519,Founded by the Spanish
+Cape Town,South Africa,-33.9249,18.4241,4772846,Africa/Johannesburg,+02:00,+02:00,False,1652,Founded by the Dutch East India Company
+Douala,Cameroon,4.0511,9.7679,1338082,Africa/Douala,+01:00,+01:00,False,,
+Wenzhou,China,27.9944,120.6997,2650000,Asia/Shanghai,+08:00,+08:00,False,,
+Berlin,Germany,52.52,13.405,3426354,Europe/Berlin,+01:00,+02:00,True,1237,First documented mention
+Algiers,Algeria,36.7538,3.0588,2364230,Africa/Algiers,+01:00,+01:00,False,944,Founded by Bologhine ibn Ziri
+Medellin,Colombia,6.2476,-75.5658,1999979,America/Bogota,-05:00,-05:00,False,1616,Founded
+Datong,China,40.0768,113.3001,1850000,Asia/Shanghai,+08:00,+08:00,False,,
+Pyongyang,North Korea,39.0392,125.7625,3222000,Asia/Pyongyang,+09:00,+09:00,False,,
+Handan,China,36.625,114.5391,1358318,Asia/Shanghai,+08:00,+08:00,False,,
+Tel Aviv,Israel,32.0853,34.7818,432892,Asia/Jerusalem,+02:00,+03:00,True,1909,Founded
+Toluca,Mexico,19.2826,-99.6557,489333,America/Mexico_City,-06:00,-06:00,False,,
+Xuzhou,China,34.2044,117.2857,1253991,Asia/Shanghai,+08:00,+08:00,False,,
+Taipei,Taiwan,25.033,121.5654,7871900,Asia/Taipei,+08:00,+08:00,False,1709,Han Chinese settlement established
+Faisalabad,Pakistan,31.4504,73.135,3800193,Asia/Karachi,+05:00,+05:00,False,1892,Founded as Lyallpur
+San Francisco,United States,37.7749,-122.4194,827526,America/Los_Angeles,-08:00,-07:00,True,1776,Founded as the Spanish mission/presidio of Yerba Buena
+Baku,Azerbaijan,40.4093,49.8671,2351300,Asia/Baku,+04:00,+04:00,False,,
+Guayaquil,Ecuador,-2.1709,-79.9224,2723665,America/Guayaquil,-05:00,-05:00,False,1538,Founded
+Bekasi,Indonesia,-6.2383,106.9756,2648272,Asia/Jakarta,+07:00,+07:00,False,,
+Munich,Germany,48.1351,11.582,1505005,Europe/Berlin,+01:00,+02:00,True,1158,Founded
+Milan,Italy,45.4642,9.19,1371498,Europe/Rome,+01:00,+02:00,True,-600,"Greek colony of Neapolis founded (as Parthenope, later Neapolis)"
+Colombo,Sri Lanka,6.9271,79.8612,648034,Asia/Colombo,+05:30,+05:30,False,1517,Portuguese fort established (older trading port existed earlier)
+Nanchang,China,28.6829,115.8579,2357839,Asia/Shanghai,+08:00,+08:00,False,,
+Fuzhou,China,26.0745,119.2965,3740000,Asia/Shanghai,+08:00,+08:00,False,,
+Multan,Pakistan,30.1575,71.5249,2169915,Asia/Karachi,+05:00,+05:00,False,,
+Sanaa,Yemen,15.3694,44.191,1937451,Asia/Aden,+03:00,+03:00,False,,
+Puebla,Mexico,19.0414,-98.2063,1692181,America/Mexico_City,-06:00,-06:00,False,1531,Founded by the Spanish
+Detroit,United States,42.3314,-83.0458,645705,America/Detroit,-05:00,-04:00,True,1701,Founded by the French
+Zhongshan,China,22.515,113.3928,342306,Asia/Shanghai,+08:00,+08:00,False,,
+Vancouver,Canada,49.2827,-123.1207,662248,America/Vancouver,-08:00,-07:00,True,1886,Incorporated
+Cali,Colombia,3.4516,-76.532,2392877,America/Bogota,-05:00,-05:00,False,1536,Founded
+Vienna,Austria,48.2082,16.3738,1691468,Europe/Vienna,+01:00,+02:00,True,-15,Roman Vindobona founded
+Montreal,Canada,45.5017,-73.5673,1762949,America/Toronto,-05:00,-04:00,True,1642,Founded as Ville-Marie
+Almaty,Kazakhstan,43.222,76.8512,1977011,Asia/Almaty,+05:00,+05:00,False,1854,Founded as the Verny fortress
+Warsaw,Poland,52.2297,21.0122,1702139,Europe/Warsaw,+01:00,+02:00,True,1300,First documented as capital of the Duchy of Masovia
+Copenhagen,Denmark,55.6761,12.5683,1153615,Europe/Copenhagen,+01:00,+02:00,True,1167,Founded by Bishop Absalon
+Seattle,United States,47.6062,-122.3321,780995,America/Los_Angeles,-08:00,-07:00,True,1851,Founded
+Guatemala City,Guatemala,14.6349,-90.5069,994938,America/Guatemala,-06:00,-06:00,False,1776,Refounded here after earthquake destroyed Antigua Guatemala
+Manaus,Brazil,-3.119,-60.0217,2219580,America/Manaus,-04:00,-04:00,False,1669,Founded as a Portuguese fort
+Suzhou,China,33.6333,116.9667,1647642,Asia/Shanghai,+08:00,+08:00,False,,
+Ibadan,Nigeria,7.3775,3.947,3649000,Africa/Lagos,+01:00,+01:00,False,1829,Founded
+Amsterdam,Netherlands,52.3676,4.9041,741636,Europe/Amsterdam,+01:00,+02:00,True,1275,Traditional founding date (toll privilege granted)
+Minneapolis,United States,44.9778,-93.265,410939,America/Chicago,-06:00,-05:00,True,1867,Incorporated
+Belgrade,Serbia,44.7866,20.4489,1273651,Europe/Belgrade,+01:00,+02:00,True,-279,Celtic Singidunum founded
+San Diego,United States,32.7157,-117.1611,1404452,America/Los_Angeles,-08:00,-07:00,True,1769,Founded as a Spanish mission
+Kaduna,Nigeria,10.5222,7.4383,1850000,Africa/Lagos,+01:00,+01:00,False,1913,Founded by the British
+Ottawa,Canada,45.4215,-75.6972,1017449,America/Toronto,-05:00,-04:00,True,1826,Founded as Bytown
+Brisbane,Australia,-27.4698,153.0251,2780063,Australia/Brisbane,+10:00,+10:00,False,1824,Founded as a penal colony
+Tashkent,Uzbekistan,41.2995,69.2401,1978028,Asia/Tashkent,+05:00,+05:00,False,,
+Zibo,China,36.8131,118.0549,3129228,Asia/Shanghai,+08:00,+08:00,False,,
+Prague,Czech Republic,50.0755,14.4378,1165581,Europe/Prague,+01:00,+02:00,True,880,Prague Castle founded
+Nairobi Metro,Kenya,-1.3,36.85,4397073,Africa/Nairobi,+03:00,+03:00,False,,
+Bucharest,Romania,44.4268,26.1025,1877155,Europe/Bucharest,+02:00,+03:00,True,1459,First documented mention
+Denver,United States,39.7392,-104.9903,729019,America/Denver,-07:00,-06:00,True,1858,Founded
+Auckland,New Zealand,-36.8485,174.7633,1547200,Pacific/Auckland,+13:00,+12:00,True,1840,Founded
+Tunis,Tunisia,36.8065,10.1815,693210,Africa/Tunis,+01:00,+01:00,False,,
+Nagpur,India,21.1458,79.0882,2405665,Asia/Kolkata,+05:30,+05:30,False,,
+Napoli,Italy,40.8518,14.2681,909048,Europe/Rome,+01:00,+02:00,True,-600,"Greek colony founded (as Parthenope, predecessor of Naples proper)"
+Hamburg,Germany,53.5511,9.9937,1973896,Europe/Berlin,+01:00,+02:00,True,808,Hammaburg fortress built
+Katowice,Poland,50.2649,19.0238,286960,Europe/Warsaw,+01:00,+02:00,True,1865,Granted city rights
+Wuxi,China,31.5904,120.3119,4396835,Asia/Shanghai,+08:00,+08:00,False,,
+Lucknow,India,26.8467,80.9462,2472011,Asia/Kolkata,+05:30,+05:30,False,,
+Indore,India,22.7196,75.8577,1994397,Asia/Kolkata,+05:30,+05:30,False,,
+Budapest,Hungary,47.4979,19.0402,1741041,Europe/Budapest,+01:00,+02:00,True,1873,"Unification of Buda, Pest and Obuda (Roman Aquincum existed earlier)"
+Stockholm,Sweden,59.3293,18.0686,1515017,Europe/Stockholm,+01:00,+02:00,True,1252,Traditionally founded by Birger Jarl
+Kyiv,Ukraine,50.4501,30.5234,2952301,Europe/Kyiv,+02:00,+03:00,True,482,Traditional legendary founding date
+Rawalpindi,Pakistan,33.5651,73.0169,3357612,Asia/Karachi,+05:00,+05:00,False,,
+Portland,United States,45.5152,-122.6784,652503,America/Los_Angeles,-08:00,-07:00,True,1845,Founded
+Cordoba,Argentina,-31.4201,-64.1888,2106734,America/Argentina/Cordoba,-03:00,-03:00,False,1573,Founded
+Yerevan,Armenia,40.1792,44.4991,1144700,Asia/Yerevan,+04:00,+04:00,False,-782,Erebuni fortress founded
+Tbilisi,Georgia,41.7151,44.8271,1049498,Asia/Tbilisi,+04:00,+04:00,False,455,Traditionally founded by King Vakhtang I Gorgasali
+Damascus,Syria,33.5138,36.2765,1569394,Asia/Damascus,+03:00,+03:00,False,,
+Sapporo,Japan,43.0618,141.3545,1973832,Asia/Tokyo,+09:00,+09:00,False,1868,Founded as a planned city
+Perth,Australia,-31.9505,115.8605,2384371,Australia/Perth,+08:00,+08:00,False,1829,Founded
+Cologne,Germany,50.9375,6.9603,1024621,Europe/Berlin,+01:00,+02:00,True,50,Became a Roman colonia (Colonia Claudia Ara Agrippinensium); earlier Oppidum Ubiorum from 38 BCE
+Adana,Turkey,37.0,35.3213,1816750,Europe/Istanbul,+03:00,+03:00,False,,
+Antananarivo,Madagascar,-18.8792,47.5079,1349501,Indian/Antananarivo,+03:00,+03:00,False,1610,Founded
+Freetown,Sierra Leone,8.4657,-13.2317,802639,Africa/Freetown,+00:00,+00:00,False,1792,Founded by freed slaves and abolitionists
+Accra,Ghana,5.6037,-0.187,1963264,Africa/Accra,+00:00,+00:00,False,,
+Dakar,Senegal,14.7167,-17.4677,2646503,Africa/Dakar,+00:00,+00:00,False,1857,Founded by the French
+Bamako,Mali,12.6392,-8.0029,4227569,Africa/Bamako,+00:00,+00:00,False,,
+Ouagadougou,Burkina Faso,12.3714,-1.5197,2415266,Africa/Ouagadougou,+00:00,+00:00,False,1441,Traditional founding as capital of the Mossi Kingdom
+Lusaka,Zambia,-15.3875,28.3228,2212301,Africa/Lusaka,+02:00,+02:00,False,1905,Founded
+Harare,Zimbabwe,-17.8292,31.0522,1542813,Africa/Harare,+02:00,+02:00,False,1890,Founded as Fort Salisbury
+Maputo,Mozambique,-25.9692,32.5732,1254837,Africa/Maputo,+02:00,+02:00,False,1781,Portuguese fort established (earlier trading post existed)
+Kampala,Uganda,0.3476,32.5825,1680600,Africa/Kampala,+03:00,+03:00,False,1890,"Founded, built on the Buganda hills"
+Mogadishu,Somalia,2.0469,45.3182,2587183,Africa/Mogadishu,+03:00,+03:00,False,,
+Tripoli,Libya,32.8872,13.1913,1302947,Africa/Tripoli,+02:00,+02:00,False,-700,Phoenician colony of Oea founded
+Rabat,Morocco,34.0209,-6.8417,1655753,Africa/Casablanca,+01:00,+01:00,False,1146,Founded as a ribat by the Almohads
+Lome,Togo,6.1319,1.2228,2188376,Africa/Lome,+00:00,+00:00,False,,
+Conakry,Guinea,9.6412,-13.5784,1928389,Africa/Conakry,+00:00,+00:00,False,1885,Founded by the French
+Niamey,Niger,13.5127,2.1128,1323691,Africa/Niamey,+01:00,+01:00,False,1901,Founded as a French colonial post
+Ndjamena,Chad,12.1348,15.0557,1359526,Africa/Ndjamena,+01:00,+01:00,False,1900,Founded as Fort-Lamy by the French
+Bangui,Central African Republic,4.3947,18.5582,812407,Africa/Bangui,+01:00,+01:00,False,1889,Founded by the French
+Windhoek,Namibia,-22.5609,17.0658,386219,Africa/Windhoek,+02:00,+02:00,False,1890,German fort (Alte Feste) built; earlier Jonker Afrikaner settlement from 1840
+Gaborone,Botswana,-24.6282,25.9231,246325,Africa/Gaborone,+02:00,+02:00,False,1965,Founded as the planned capital
+Maseru,Lesotho,-29.3151,27.4869,359753,Africa/Maseru,+02:00,+02:00,False,1869,Founded
+Mbabane,Eswatini,-26.3054,31.1367,76218,Africa/Mbabane,+02:00,+02:00,False,1902,Founded as an administrative capital
+Antalya,Turkey,36.8969,30.7133,1335002,Europe/Istanbul,+03:00,+03:00,False,-159,Founded by Attalus II of Pergamon
+Izmir,Turkey,38.4192,27.1287,2938292,Europe/Istanbul,+03:00,+03:00,False,,
+Bursa,Turkey,40.1826,29.0665,3101833,Europe/Istanbul,+03:00,+03:00,False,-202,Founded by Prusias I of Bithynia
+Doha,Qatar,25.2854,51.531,344939,Asia/Qatar,+03:00,+03:00,False,1825,Founded
+Abu Dhabi,United Arab Emirates,24.4539,54.3773,1807000,Asia/Dubai,+04:00,+04:00,False,1761,Founded
+Dubai,United Arab Emirates,25.2048,55.2708,3790000,Asia/Dubai,+04:00,+04:00,False,1833,Al Maktoum family took control; fishing village existed earlier
+Muscat,Oman,23.5859,58.4059,797000,Asia/Muscat,+04:00,+04:00,False,,
+Manama,Bahrain,26.2285,50.586,147074,Asia/Bahrain,+03:00,+03:00,False,1345,First documented mention
+Amman,Jordan,31.9454,35.9284,1275857,Asia/Amman,+03:00,+03:00,False,1921,Became capital of Transjordan; ancient Rabbath Ammon/Philadelphia on the site
+Beirut,Lebanon,33.8938,35.5018,1916100,Asia/Beirut,+02:00,+03:00,True,,
+Jerusalem,Israel,31.7683,35.2137,971800,Asia/Jerusalem,+02:00,+03:00,True,,
+Nicosia,Cyprus,35.1856,33.3823,200452,Asia/Nicosia,+02:00,+03:00,True,,
+Athens,Greece,37.9838,23.7275,664046,Europe/Athens,+02:00,+03:00,True,,
+Thessaloniki,Greece,40.6401,22.9444,317778,Europe/Athens,+02:00,+03:00,True,-315,Founded by Cassander of Macedon
+Sofia,Bulgaria,42.6977,23.3219,1152556,Europe/Sofia,+02:00,+03:00,True,,
+Skopje,North Macedonia,41.9981,21.4254,474889,Europe/Skopje,+01:00,+02:00,True,,
+Tirana,Albania,41.3275,19.8187,418495,Europe/Tirane,+01:00,+02:00,True,1614,Founded by Sulejman Pasha Bargjini
+Sarajevo,Bosnia and Herzegovina,43.8563,18.4131,696731,Europe/Sarajevo,+01:00,+02:00,True,1461,Founded by the Ottomans
+Zagreb,Croatia,45.815,15.9819,663592,Europe/Zagreb,+01:00,+02:00,True,1094,Diocese of Zagreb founded
+Ljubljana,Slovenia,46.0569,14.5058,272220,Europe/Ljubljana,+01:00,+02:00,True,,
+Bratislava,Slovakia,48.1486,17.1077,423737,Europe/Bratislava,+01:00,+02:00,True,,
+Vilnius,Lithuania,54.6872,25.2797,542366,Europe/Vilnius,+02:00,+03:00,True,1323,First mentioned in a letter by Grand Duke Gediminas
+Riga,Latvia,56.9496,24.1052,742572,Europe/Riga,+02:00,+03:00,True,1201,Founded by Bishop Albert of Riga
+Tallinn,Estonia,59.437,24.7536,394024,Europe/Tallinn,+02:00,+03:00,True,1219,Danish fortress built
+Helsinki,Finland,60.1699,24.9384,658864,Europe/Helsinki,+02:00,+03:00,True,1550,Founded by King Gustav I of Sweden
+Oslo,Norway,59.9139,10.7522,1082575,Europe/Oslo,+01:00,+02:00,True,1048,Traditionally founded by Harald Hardrada
+Reykjavik,Iceland,64.1466,-21.9426,118918,Atlantic/Reykjavik,+00:00,+00:00,False,874,Traditional first permanent Norse settlement in Iceland
+Dublin,Ireland,53.3498,-6.2603,1024027,Europe/Dublin,+00:00,+01:00,True,841,Viking settlement founded
+Edinburgh,United Kingdom,55.9533,-3.1883,514990,Europe/London,+00:00,+01:00,True,,
+Glasgow,United Kingdom,55.8642,-4.2518,626410,Europe/London,+00:00,+01:00,True,543,Traditionally founded by Saint Mungo
+Manchester,United Kingdom,53.4808,-2.2426,568996,Europe/London,+00:00,+01:00,True,79,Roman fort of Mamucium established
+Birmingham,United Kingdom,52.4862,-1.8904,1157603,Europe/London,+00:00,+01:00,True,1086,First documentary mention (Domesday Book)
+Liverpool,United Kingdom,53.4084,-2.9916,496770,Europe/London,+00:00,+01:00,True,1207,Granted a royal charter by King John
+Leeds,United Kingdom,53.8008,-1.5491,536280,Europe/London,+00:00,+01:00,True,1086,First documentary mention (Domesday Book)
+Bristol,United Kingdom,51.4545,-2.5879,479024,Europe/London,+00:00,+01:00,True,,
+Lyon,France,45.764,4.8357,520774,Europe/Paris,+01:00,+02:00,True,-43,Roman Lugdunum founded
+Marseille,France,43.2965,5.3698,877215,Europe/Paris,+01:00,+02:00,True,-600,Greek colony of Massalia founded by Phocaeans
+Toulouse,France,43.6047,1.4442,511684,Europe/Paris,+01:00,+02:00,True,,
+Nice,France,43.7102,7.262,342669,Europe/Paris,+01:00,+02:00,True,-350,Greek colony of Nikaia founded
+Nantes,France,47.2184,-1.5536,325070,Europe/Paris,+01:00,+02:00,True,,
+Strasbourg,France,48.5734,7.7521,274845,Europe/Paris,+01:00,+02:00,True,-12,Roman military camp of Argentoratum established
+Bordeaux,France,44.8378,-0.5792,265328,Europe/Paris,+01:00,+02:00,True,-300,Celtic settlement of Burdigala
+Lille,France,50.6292,3.0573,238695,Europe/Paris,+01:00,+02:00,True,1066,First documented mention
+Frankfurt,Germany,50.1109,8.6821,650000,Europe/Berlin,+01:00,+02:00,True,794,First documented mention
+Stuttgart,Germany,48.7758,9.1829,612663,Europe/Berlin,+01:00,+02:00,True,950,Founded as a royal stud farm
+Dusseldorf,Germany,51.2277,6.7735,618685,Europe/Berlin,+01:00,+02:00,True,1288,Granted town rights
+Dortmund,Germany,51.5136,7.4653,588462,Europe/Berlin,+01:00,+02:00,True,882,First documented mention
+Essen,Germany,51.4556,7.0116,593085,Europe/Berlin,+01:00,+02:00,True,845,Founded as a convent
+Leipzig,Germany,51.3397,12.3731,504971,Europe/Berlin,+01:00,+02:00,True,1015,First documented mention
+Bremen,Germany,53.0793,8.8017,546501,Europe/Berlin,+01:00,+02:00,True,787,Founded as a bishopric
+Dresden,Germany,51.0504,13.7373,564904,Europe/Berlin,+01:00,+02:00,True,1206,First documented mention
+Hannover,Germany,52.3759,9.732,515140,Europe/Berlin,+01:00,+02:00,True,1150,First documented mention
+Nuremberg,Germany,49.4521,11.0767,515543,Europe/Berlin,+01:00,+02:00,True,1050,First documented mention
+Turin,Italy,45.0703,7.6869,847287,Europe/Rome,+01:00,+02:00,True,-28,Roman colony of Augusta Taurinorum founded
+Palermo,Italy,38.1157,13.3615,648260,Europe/Rome,+01:00,+02:00,True,-734,Phoenician colony founded
+Genoa,Italy,44.4056,8.9463,580097,Europe/Rome,+01:00,+02:00,True,,
+Bologna,Italy,44.4949,11.3426,394843,Europe/Rome,+01:00,+02:00,True,-534,Etruscan city of Felsina founded
+Florence,Italy,43.7696,11.2558,367150,Europe/Rome,+01:00,+02:00,True,-59,Roman colony founded for Julius Caesar's veterans
+Bari,Italy,41.1171,16.8719,316491,Europe/Rome,+01:00,+02:00,True,,
+Catania,Italy,37.5079,15.083,311584,Europe/Rome,+01:00,+02:00,True,-729,Greek colony founded
+Venice,Italy,45.4408,12.3155,51298,Europe/Rome,+01:00,+02:00,True,421,Traditional founding date
+Verona,Italy,45.4384,10.9916,258031,Europe/Rome,+01:00,+02:00,True,,
+Seville,Spain,37.3891,-5.9845,686741,Europe/Madrid,+01:00,+02:00,True,,
+Zaragoza,Spain,41.6488,-0.8891,686986,Europe/Madrid,+01:00,+02:00,True,-14,Roman colony of Caesaraugusta founded by Augustus
+Malaga,Spain,36.7213,-4.4213,592346,Europe/Madrid,+01:00,+02:00,True,-770,Phoenician colony of Malaka founded
+Murcia,Spain,37.9922,-1.1307,471982,Europe/Madrid,+01:00,+02:00,True,825,Founded by Abd al-Rahman II
+Palma,Spain,39.5696,2.6502,438234,Europe/Madrid,+01:00,+02:00,True,-123,Roman founding
+Bilbao,Spain,43.263,-2.935,347342,Europe/Madrid,+01:00,+02:00,True,1300,Founded
+Valencia,Spain,39.4699,-0.3763,824340,Europe/Madrid,+01:00,+02:00,True,-138,Roman colony founded
+Porto,Portugal,41.1579,-8.6291,252687,Europe/Lisbon,+00:00,+01:00,True,,
+Lisbon,Portugal,38.7223,-9.1393,517802,Europe/Lisbon,+00:00,+01:00,True,,
+Geneva,Switzerland,46.2044,6.1432,201741,Europe/Zurich,+01:00,+02:00,True,,
+Zurich,Switzerland,47.3769,8.5417,415367,Europe/Zurich,+01:00,+02:00,True,-15,Roman customs post of Turicum established
+Bern,Switzerland,46.948,7.4474,121631,Europe/Zurich,+01:00,+02:00,True,1191,Founded by Berthold V of Zahringen
+Basel,Switzerland,47.5596,7.5886,177595,Europe/Zurich,+01:00,+02:00,True,,
+Brussels,Belgium,50.8503,4.3517,1019022,Europe/Brussels,+01:00,+02:00,True,979,"Founded by Charles, Duke of Lower Lorraine"
+Antwerp,Belgium,51.2194,4.4025,529247,Europe/Brussels,+01:00,+02:00,True,,
+Rotterdam,Netherlands,51.9244,4.4777,868135,Europe/Amsterdam,+01:00,+02:00,True,1270,"Dam built on the Rotte river, giving the city its name"
+The Hague,Netherlands,52.0705,4.3007,474292,Europe/Amsterdam,+01:00,+02:00,True,1230,Founded around a count's residence
+Utrecht,Netherlands,52.0907,5.1214,376435,Europe/Amsterdam,+01:00,+02:00,True,47,Roman fort of Traiectum established
+Eindhoven,Netherlands,51.4416,5.4697,235691,Europe/Amsterdam,+01:00,+02:00,True,1232,Granted city rights
+Luxembourg City,Luxembourg,49.6116,6.1319,76684,Europe/Luxembourg,+01:00,+02:00,True,963,Founded around Siegfried's castle
+Malmo,Sweden,55.605,13.0038,362133,Europe/Stockholm,+01:00,+02:00,True,1275,First documented mention
+Gothenburg,Sweden,57.7089,11.9746,608462,Europe/Stockholm,+01:00,+02:00,True,1621,Founded by King Gustav II Adolf
+Bergen,Norway,60.3913,5.3221,294029,Europe/Oslo,+01:00,+02:00,True,1070,Founded by King Olav Kyrre
+Aarhus,Denmark,56.1629,10.2039,285273,Europe/Copenhagen,+01:00,+02:00,True,,
+Turku,Finland,60.4518,22.2666,206655,Europe/Helsinki,+02:00,+03:00,True,1300,First documented mention
+Krakow,Poland,50.0647,19.945,816614,Europe/Warsaw,+01:00,+02:00,True,965,First documented mention
+Wroclaw,Poland,51.1079,17.0385,672545,Europe/Warsaw,+01:00,+02:00,True,,
+Poznan,Poland,52.4064,16.9252,536151,Europe/Warsaw,+01:00,+02:00,True,968,First documented mention
+Gdansk,Poland,54.352,18.6466,487371,Europe/Warsaw,+01:00,+02:00,True,997,First documented mention
+Lodz,Poland,51.7592,19.456,639890,Europe/Warsaw,+01:00,+02:00,True,1423,Granted town rights
+Brno,Czech Republic,49.1951,16.6068,379466,Europe/Prague,+01:00,+02:00,True,,
+Ostrava,Czech Republic,49.8209,18.2625,279791,Europe/Prague,+01:00,+02:00,True,1267,First documented mention
+Debrecen,Hungary,47.5316,21.6273,202402,Europe/Budapest,+01:00,+02:00,True,,
+Cluj-Napoca,Romania,46.7712,23.6236,286598,Europe/Bucharest,+02:00,+03:00,True,,
+Timisoara,Romania,45.7489,21.2087,250849,Europe/Bucharest,+02:00,+03:00,True,,
+Iasi,Romania,47.1585,27.6014,378954,Europe/Bucharest,+02:00,+03:00,True,,
+Plovdiv,Bulgaria,42.1354,24.7453,329489,Europe/Sofia,+02:00,+03:00,True,-342,Renamed Philippopolis after conquest by Philip II of Macedon (Thracian settlement predates this)
+Varna,Bulgaria,43.2141,27.9147,318737,Europe/Sofia,+02:00,+03:00,True,-570,Greek colony of Odessos founded
+Kharkiv,Ukraine,49.9935,36.2304,1421125,Europe/Kyiv,+02:00,+03:00,True,1654,Founded
+Odesa,Ukraine,46.4825,30.7233,1010537,Europe/Kyiv,+02:00,+03:00,True,1794,Founded by decree of Catherine the Great
+Dnipro,Ukraine,48.4647,35.0462,968502,Europe/Kyiv,+02:00,+03:00,True,1776,Founded as Yekaterinoslav
+Lviv,Ukraine,49.8397,24.0297,717273,Europe/Kyiv,+02:00,+03:00,True,1256,Founded by King Daniel of Galicia
+Minsk,Belarus,53.9006,27.559,1742124,Europe/Minsk,+03:00,+03:00,False,1067,First documented mention
+Chisinau,Moldova,47.0105,28.8638,635994,Europe/Chisinau,+02:00,+03:00,True,1436,First documented mention
+Novosibirsk,Russia,55.0084,82.9357,1612833,Asia/Novosibirsk,+07:00,+07:00,False,1893,Founded with the Trans-Siberian Railway
+Yekaterinburg,Russia,56.8389,60.6057,1495066,Asia/Yekaterinburg,+05:00,+05:00,False,1723,Founded
+Nizhny Novgorod,Russia,56.2965,43.9361,1259013,Europe/Moscow,+03:00,+03:00,False,1221,Founded
+Kazan,Russia,55.8304,49.0661,1243500,Europe/Moscow,+03:00,+03:00,False,1005,Traditional founding date
+Chelyabinsk,Russia,55.1644,61.4368,1202371,Asia/Yekaterinburg,+05:00,+05:00,False,1736,Founded as a fortress
+Omsk,Russia,54.9885,73.3242,1172070,Asia/Omsk,+06:00,+06:00,False,1716,Founded as a fortress
+Samara,Russia,53.2001,50.15,1163399,Europe/Samara,+04:00,+04:00,False,1586,Founded as a fortress
+Rostov-on-Don,Russia,47.2357,39.7015,1130305,Europe/Moscow,+03:00,+03:00,False,1749,Founded as a customs house
+Ufa,Russia,54.7388,55.9721,1120547,Asia/Yekaterinburg,+05:00,+05:00,False,1574,Founded as a fortress
+Krasnoyarsk,Russia,56.0184,92.8672,1090811,Asia/Krasnoyarsk,+07:00,+07:00,False,1628,Founded as a fort
+Voronezh,Russia,51.672,39.1843,1047549,Europe/Moscow,+03:00,+03:00,False,1586,Founded as a fortress
+Perm,Russia,58.0105,56.2502,982419,Asia/Yekaterinburg,+05:00,+05:00,False,1723,Founded
+Volgograd,Russia,48.708,44.5133,1013533,Europe/Volgograd,+03:00,+03:00,False,1589,Founded as Tsaritsyn fortress
+Vladivostok,Russia,43.1332,131.9113,604901,Asia/Vladivostok,+10:00,+10:00,False,1860,Founded as a military outpost
+Astana,Kazakhstan,51.1694,71.4491,1544142,Asia/Almaty,+05:00,+05:00,False,1830,Founded as Akmolinsk fortress
+Bishkek,Kyrgyzstan,42.8746,74.5698,900000,Asia/Bishkek,+06:00,+06:00,False,1825,Founded as Pishpek fortress
+Dushanbe,Tajikistan,38.5598,68.787,679400,Asia/Dushanbe,+05:00,+05:00,False,,
+Ashgabat,Turkmenistan,37.9601,58.3261,1030063,Asia/Ashgabat,+05:00,+05:00,False,1881,Founded as a Russian fortress
+Ulaanbaatar,Mongolia,47.8864,106.9057,844818,Asia/Ulaanbaatar,+08:00,+08:00,False,1639,Founded as a nomadic Buddhist monastic center
+New Delhi,India,28.6139,77.209,317797,Asia/Kolkata,+05:30,+05:30,False,1911,British decision to build a new capital; inaugurated 1931
+Guwahati,India,26.1445,91.7362,962334,Asia/Kolkata,+05:30,+05:30,False,,
+Bhopal,India,23.2599,77.4126,1798218,Asia/Kolkata,+05:30,+05:30,False,1723,Founded by Dost Mohammad Khan
+Patna,India,25.5941,85.1376,1684297,Asia/Kolkata,+05:30,+05:30,False,,
+Vadodara,India,22.3072,73.1812,1822221,Asia/Kolkata,+05:30,+05:30,False,,
+Ludhiana,India,30.901,75.8573,1618879,Asia/Kolkata,+05:30,+05:30,False,,
+Agra,India,27.1767,78.0081,1430055,Asia/Kolkata,+05:30,+05:30,False,1504,Founded/refounded by Sikandar Lodi
+Nashik,India,19.9975,73.7898,1486053,Asia/Kolkata,+05:30,+05:30,False,,
+Ranchi,India,23.3441,85.3096,1120374,Asia/Kolkata,+05:30,+05:30,False,,
+Meerut,India,28.9845,77.7064,1223184,Asia/Kolkata,+05:30,+05:30,False,,
+Rajkot,India,22.3039,70.8022,1390640,Asia/Kolkata,+05:30,+05:30,False,,
+Varanasi,India,25.3176,82.9739,1164404,Asia/Kolkata,+05:30,+05:30,False,,
+Srinagar,India,34.0837,74.7973,1206419,Asia/Kolkata,+05:30,+05:30,False,,
+Amritsar,India,31.634,74.8723,1159227,Asia/Kolkata,+05:30,+05:30,False,1577,Founded by Guru Ram Das
+Coimbatore,India,11.0168,76.9558,2136916,Asia/Kolkata,+05:30,+05:30,False,,
+Kochi,India,9.9312,76.2673,633553,Asia/Kolkata,+05:30,+05:30,False,,
+Thiruvananthapuram,India,8.5241,76.9366,788271,Asia/Kolkata,+05:30,+05:30,False,,
+Visakhapatnam,India,17.6868,83.2185,1063178,Asia/Kolkata,+05:30,+05:30,False,,
+Vijayawada,India,16.5062,80.648,1143232,Asia/Kolkata,+05:30,+05:30,False,,
+Madurai,India,9.9252,78.1198,1465625,Asia/Kolkata,+05:30,+05:30,False,,
+Jodhpur,India,26.2389,73.0243,1056191,Asia/Kolkata,+05:30,+05:30,False,,
+Raipur,India,21.2514,81.6296,1027264,Asia/Kolkata,+05:30,+05:30,False,,
+Kota,India,25.2138,75.8648,1001694,Asia/Kolkata,+05:30,+05:30,False,,
+Guntur,India,16.3067,80.4365,670073,Asia/Kolkata,+05:30,+05:30,False,,
+Chandigarh,India,30.7333,76.7794,970602,Asia/Kolkata,+05:30,+05:30,False,1953,"India's first planned city, post-independence"
+Gwalior,India,26.2183,78.1828,1054420,Asia/Kolkata,+05:30,+05:30,False,,
+Islamabad,Pakistan,33.6844,73.0479,601600,Asia/Karachi,+05:00,+05:00,False,1960,Founded as Pakistan's planned capital
+Peshawar,Pakistan,34.0151,71.5249,4758762,Asia/Karachi,+05:00,+05:00,False,,
+Quetta,Pakistan,30.1798,66.975,1565546,Asia/Karachi,+05:00,+05:00,False,,
+Hyderabad,Pakistan,25.396,68.3578,1921275,Asia/Karachi,+05:00,+05:00,False,,
+Sialkot,Pakistan,32.4945,74.5229,911817,Asia/Karachi,+05:00,+05:00,False,,
+Gujranwala,Pakistan,32.1877,74.1945,2511118,Asia/Karachi,+05:00,+05:00,False,,
+Chattogram,Bangladesh,22.3569,91.7832,3920222,Asia/Dhaka,+06:00,+06:00,False,,
+Khulna,Bangladesh,22.8456,89.5403,1500689,Asia/Dhaka,+06:00,+06:00,False,,
+Rajshahi,Bangladesh,24.3745,88.6042,763580,Asia/Dhaka,+06:00,+06:00,False,,
+Sylhet,Bangladesh,24.8949,91.8687,237000,Asia/Dhaka,+06:00,+06:00,False,,
+Kathmandu,Nepal,27.7172,85.324,1442271,Asia/Kathmandu,+05:45,+05:45,False,723,Traditionally founded
+Thimphu,Bhutan,27.4712,89.6339,98676,Asia/Thimphu,+06:00,+06:00,False,1961,Became national capital; Trashi Chhoe Dzong built 1216
+Male,Maldives,4.1755,73.5093,103693,Indian/Maldives,+05:00,+05:00,False,,
+Chiang Mai,Thailand,18.7061,98.9817,127240,Asia/Bangkok,+07:00,+07:00,False,1296,Founded by King Mengrai
+Phnom Penh,Cambodia,11.5564,104.9282,1573544,Asia/Phnom_Penh,+07:00,+07:00,False,1434,Founded/became Khmer capital
+Vientiane,Laos,17.9757,102.6331,840940,Asia/Vientiane,+07:00,+07:00,False,1560,Became the Lao capital
+Naypyidaw,Myanmar,19.7633,96.0785,925000,Asia/Yangon,+06:30,+06:30,False,2005,Founded as Myanmar's new capital
+Bandar Seri Begawan,Brunei,4.9031,114.9398,64409,Asia/Brunei,+08:00,+08:00,False,,
+Dili,East Timor,-8.5569,125.5603,150000,Asia/Dili,+09:00,+09:00,False,1769,Founded by the Portuguese
+Surabaya,Indonesia,-7.2575,112.7521,3018022,Asia/Jakarta,+07:00,+07:00,False,1293,"Traditional founding, commemorated as the city's anniversary"
+Medan,Indonesia,3.5952,98.6722,2486283,Asia/Jakarta,+07:00,+07:00,False,1590,Founded
+Bandung,Indonesia,-6.9175,107.6191,2528163,Asia/Jakarta,+07:00,+07:00,False,1810,Founded
+Semarang,Indonesia,-6.9667,110.4167,1694740,Asia/Jakarta,+07:00,+07:00,False,1547,Founded
+Palembang,Indonesia,-2.9761,104.7754,1801367,Asia/Jakarta,+07:00,+07:00,False,683,Traditional founding date of Srivijaya
+Makassar,Indonesia,-5.1477,119.4327,1474393,Asia/Makassar,+08:00,+08:00,False,,
+Denpasar,Indonesia,-8.6705,115.2126,670210,Asia/Makassar,+08:00,+08:00,False,,
+Cebu City,Philippines,10.3157,123.8854,965332,Asia/Manila,+08:00,+08:00,False,1565,"Founded by the Spanish, oldest city in the Philippines"
+Davao City,Philippines,7.1907,125.4553,1848947,Asia/Manila,+08:00,+08:00,False,1848,Founded
+Quezon City,Philippines,14.676,121.0437,3084270,Asia/Manila,+08:00,+08:00,False,1939,Founded as a planned capital
+George Town,Malaysia,5.4141,100.3288,158336,Asia/Kuala_Lumpur,+08:00,+08:00,False,1786,Founded by Francis Light
+Johor Bahru,Malaysia,1.4927,103.7414,858118,Asia/Kuala_Lumpur,+08:00,+08:00,False,1855,Founded
+Ipoh,Malaysia,4.5975,101.0901,759952,Asia/Kuala_Lumpur,+08:00,+08:00,False,,
+Kota Kinabalu,Malaysia,5.9804,116.0735,500421,Asia/Kuching,+08:00,+08:00,False,1899,Founded as Jesselton
+Taichung,Taiwan,24.1477,120.6736,2850285,Asia/Taipei,+08:00,+08:00,False,,
+Kaohsiung,Taiwan,22.6273,120.3014,2737660,Asia/Taipei,+08:00,+08:00,False,,
+Tainan,Taiwan,22.9997,120.227,1856642,Asia/Taipei,+08:00,+08:00,False,1624,Founded by the Dutch as Fort Zeelandia
+Busan,South Korea,35.1796,129.0756,3285147,Asia/Seoul,+09:00,+09:00,False,,
+Incheon,South Korea,37.4563,126.7052,3015482,Asia/Seoul,+09:00,+09:00,False,1883,Opened as a treaty port
+Daegu,South Korea,35.8714,128.6014,2365523,Asia/Seoul,+09:00,+09:00,False,,
+Daejeon,South Korea,36.3504,127.3845,1441203,Asia/Seoul,+09:00,+09:00,False,,
+Gwangju,South Korea,35.1595,126.8526,1401235,Asia/Seoul,+09:00,+09:00,False,,
+Yokohama,Japan,35.4437,139.638,3777491,Asia/Tokyo,+09:00,+09:00,False,1859,Opened as a treaty port
+Kobe,Japan,34.6901,135.1955,1525152,Asia/Tokyo,+09:00,+09:00,False,1868,Opened as a treaty port
+Kyoto,Japan,35.0116,135.7681,1463723,Asia/Tokyo,+09:00,+09:00,False,794,"Founded as Heian-kyo, imperial capital"
+Kawasaki,Japan,35.5308,139.7029,1538262,Asia/Tokyo,+09:00,+09:00,False,,
+Saitama,Japan,35.8617,139.6455,1324854,Asia/Tokyo,+09:00,+09:00,False,,
+Hiroshima,Japan,34.3853,132.4553,1200754,Asia/Tokyo,+09:00,+09:00,False,1589,Founded by Mori Terumoto
+Sendai,Japan,38.2682,140.8694,1096704,Asia/Tokyo,+09:00,+09:00,False,1600,Founded by Date Masamune
+Kitakyushu,Japan,33.8834,130.8751,940978,Asia/Tokyo,+09:00,+09:00,False,,
+Chiba,Japan,35.6073,140.1063,979768,Asia/Tokyo,+09:00,+09:00,False,,
+Niigata,Japan,37.9161,139.0364,797591,Asia/Tokyo,+09:00,+09:00,False,,
+Hamamatsu,Japan,34.7108,137.7261,791707,Asia/Tokyo,+09:00,+09:00,False,,
+Okayama,Japan,34.6551,133.9195,724691,Asia/Tokyo,+09:00,+09:00,False,,
+Kumamoto,Japan,32.7898,130.7417,738907,Asia/Tokyo,+09:00,+09:00,False,,
+Kagoshima,Japan,31.5966,130.5571,595049,Asia/Tokyo,+09:00,+09:00,False,,
+Naha,Japan,26.2124,127.6809,317625,Asia/Tokyo,+09:00,+09:00,False,,
+Wellington,New Zealand,-41.2865,174.7762,381900,Pacific/Auckland,+13:00,+12:00,True,1840,Founded by New Zealand Company settlers
+Christchurch,New Zealand,-43.5321,172.6362,419200,Pacific/Auckland,+13:00,+12:00,True,1850,Founded
+Hamilton,New Zealand,-37.787,175.2793,192100,Pacific/Auckland,+13:00,+12:00,True,,
+Adelaide,Australia,-34.9285,138.6007,1469163,Australia/Adelaide,+10:30,+09:30,True,1836,Founded
+Canberra,Australia,-35.2809,149.13,367752,Australia/Sydney,+11:00,+10:00,True,1913,Founded as a planned capital
+Gold Coast,Australia,-28.0167,153.4,640778,Australia/Brisbane,+10:00,+10:00,False,,
+Newcastle,Australia,-32.9283,151.7817,508437,Australia/Sydney,+11:00,+10:00,True,,
+Hobart,Australia,-42.8821,147.3272,254930,Australia/Hobart,+11:00,+10:00,True,1804,Founded
+Darwin,Australia,-12.4634,130.8456,139902,Australia/Darwin,+09:30,+09:30,False,1869,Founded as Palmerston
+Suva,Fiji,-18.1416,178.4419,77366,Pacific/Fiji,+12:00,+12:00,False,1882,Became the colonial capital
+Port Moresby,Papua New Guinea,-9.4438,147.1803,283733,Pacific/Port_Moresby,+10:00,+10:00,False,1873,Founded
+Noumea,New Caledonia,-22.2758,166.4581,93060,Pacific/Noumea,+11:00,+11:00,False,,
+Apia,Samoa,-13.8506,-171.7513,40407,Pacific/Apia,+13:00,+13:00,False,,
+Nukualofa,Tonga,-21.1393,-175.2049,22400,Pacific/Tongatapu,+13:00,+13:00,False,,
+Honolulu,United States,21.3069,-157.8583,350964,Pacific/Honolulu,-10:00,-10:00,False,,
+Anchorage,United States,61.2181,-149.9003,289600,America/Anchorage,-09:00,-08:00,True,1914,Founded
+San Antonio,United States,29.4241,-98.4936,1526656,America/Chicago,-06:00,-05:00,True,1718,Founded as a Spanish mission
+Austin,United States,30.2672,-97.7431,974447,America/Chicago,-06:00,-05:00,True,1839,Founded
+San Jose,United States,37.3382,-121.8863,997368,America/Los_Angeles,-08:00,-07:00,True,,
+Jacksonville,United States,30.3322,-81.6557,1009833,America/New_York,-05:00,-04:00,True,1822,Founded
+Columbus,United States,39.9612,-82.9988,913175,America/New_York,-05:00,-04:00,True,1812,Founded
+Fort Worth,United States,32.7555,-97.3308,1008106,America/Chicago,-06:00,-05:00,True,,
+Charlotte,United States,35.2271,-80.8431,911311,America/New_York,-05:00,-04:00,True,1768,Founded
+Indianapolis,United States,39.7684,-86.1581,887642,America/Indiana/Indianapolis,-05:00,-04:00,True,1821,Founded
+Nashville,United States,36.1627,-86.7816,689447,America/Chicago,-06:00,-05:00,True,1779,Founded
+Oklahoma City,United States,35.4676,-97.5164,681054,America/Chicago,-06:00,-05:00,True,,
+El Paso,United States,31.7619,-106.485,678815,America/Denver,-07:00,-06:00,True,1659,Founded as a Spanish mission
+Memphis,United States,35.1495,-90.049,633104,America/Chicago,-06:00,-05:00,True,,
+Baltimore,United States,39.2904,-76.6122,585708,America/New_York,-05:00,-04:00,True,1729,Founded
+Milwaukee,United States,43.0389,-87.9065,563531,America/Chicago,-06:00,-05:00,True,1846,Incorporated
+Albuquerque,United States,35.0844,-106.6504,564559,America/Denver,-07:00,-06:00,True,1706,Founded as a Spanish colonial outpost
+Tucson,United States,32.2226,-110.9747,542629,America/Phoenix,-07:00,-07:00,False,1775,Founded as a Spanish presidio
+Fresno,United States,36.7378,-119.7871,542107,America/Los_Angeles,-08:00,-07:00,True,,
+Sacramento,United States,38.5816,-121.4944,524943,America/Los_Angeles,-08:00,-07:00,True,1839,Founded
+Kansas City,United States,39.0997,-94.5786,475378,America/Chicago,-06:00,-05:00,True,1838,Founded
+Mesa,United States,33.4152,-111.8315,471825,America/Phoenix,-07:00,-07:00,False,,
+Omaha,United States,41.2565,-95.9345,486051,America/Chicago,-06:00,-05:00,True,,
+Colorado Springs,United States,38.8339,-104.8214,456568,America/Denver,-07:00,-06:00,True,,
+Raleigh,United States,35.7796,-78.6382,482295,America/New_York,-05:00,-04:00,True,,
+Long Beach,United States,33.7701,-118.1937,474140,America/Los_Angeles,-08:00,-07:00,True,,
+Virginia Beach,United States,36.8529,-75.978,454808,America/New_York,-05:00,-04:00,True,,
+Oakland,United States,37.8044,-122.2712,419267,America/Los_Angeles,-08:00,-07:00,True,1852,Incorporated
+Minneapolis Metro,United States,44.9778,-93.265,410939,America/Chicago,-06:00,-05:00,True,,
+Tulsa,United States,36.154,-95.9928,413066,America/Chicago,-06:00,-05:00,True,,
+Tampa,United States,27.9506,-82.4572,414547,America/New_York,-05:00,-04:00,True,,
+New Orleans,United States,29.9511,-90.0715,362701,America/Chicago,-06:00,-05:00,True,1718,Founded by the French
+Cleveland,United States,41.4993,-81.6944,365379,America/New_York,-05:00,-04:00,True,1796,Founded
+Pittsburgh,United States,40.4406,-79.9959,304391,America/New_York,-05:00,-04:00,True,1758,Founded
+Cincinnati,United States,39.1031,-84.512,311097,America/New_York,-05:00,-04:00,True,1788,Founded
+St. Louis,United States,38.627,-90.1994,279695,America/Chicago,-06:00,-05:00,True,1764,Founded by the French
+Orlando,United States,28.5383,-81.3792,334854,America/New_York,-05:00,-04:00,True,,
+Las Vegas,United States,36.1699,-115.1398,641903,America/Los_Angeles,-08:00,-07:00,True,1905,Founded
+Calgary,Canada,51.0447,-114.0719,1306784,America/Edmonton,-07:00,-06:00,True,1875,Founded as a North-West Mounted Police fort
+Edmonton,Canada,53.5461,-113.4938,1010899,America/Edmonton,-07:00,-06:00,True,1795,Founded as a fur trading post
+Winnipeg,Canada,49.8951,-97.1384,749607,America/Winnipeg,-06:00,-05:00,True,1738,Founded as the fur trading post of Fort Rouge
+Quebec City,Canada,46.8139,-71.208,531902,America/Toronto,-05:00,-04:00,True,1608,Founded by Samuel de Champlain
+Hamilton,Canada,43.2557,-79.8711,569353,America/Toronto,-05:00,-04:00,True,,
+Halifax,Canada,44.6488,-63.5752,471559,America/Halifax,-04:00,-03:00,True,1749,Founded
+Victoria,Canada,48.4284,-123.3656,289625,America/Vancouver,-08:00,-07:00,True,1843,Founded as a fur trading post
+Saskatoon,Canada,52.1332,-106.67,266141,America/Regina,-06:00,-06:00,False,,
+Regina,Canada,50.4452,-104.6189,226404,America/Regina,-06:00,-06:00,False,,
+Tijuana,Mexico,32.5149,-117.0382,1922523,America/Tijuana,-08:00,-07:00,True,1889,Founded
+Leon,Mexico,21.125,-101.686,1579803,America/Mexico_City,-06:00,-06:00,False,1576,Founded
+Juarez,Mexico,31.6904,-106.4245,1512450,America/Ciudad_Juarez,-07:00,-06:00,True,1659,Founded as a Spanish mission
+Zapopan,Mexico,20.7167,-103.4,1476491,America/Mexico_City,-06:00,-06:00,False,,
+Merida,Mexico,20.9674,-89.5926,1201000,America/Merida,-06:00,-06:00,False,1542,Founded by the Spanish
+Cancun,Mexico,21.1619,-86.8515,888797,America/Cancun,-05:00,-05:00,False,,
+Chihuahua,Mexico,28.6353,-106.0889,925762,America/Chihuahua,-06:00,-06:00,False,,
+Aguascalientes,Mexico,21.8853,-102.2916,722250,America/Mexico_City,-06:00,-06:00,False,,
+Queretaro,Mexico,20.5888,-100.3899,1594212,America/Mexico_City,-06:00,-06:00,False,1531,Founded
+San Luis Potosi,Mexico,22.1565,-100.9855,722772,America/Mexico_City,-06:00,-06:00,False,,
+Veracruz,Mexico,19.1738,-96.1342,428323,America/Mexico_City,-06:00,-06:00,False,1519,Founded by Hernan Cortes
+Mazatlan,Mexico,23.2494,-106.4111,381583,America/Mazatlan,-07:00,-07:00,False,,
+Panama City,Panama,8.9824,-79.5199,408168,America/Panama,-05:00,-05:00,False,1519,Founded by the Spanish
+San Jose,Costa Rica,9.9281,-84.0907,335007,America/Costa_Rica,-06:00,-06:00,False,1736,Founded
+Managua,Nicaragua,12.1364,-86.2514,973087,America/Managua,-06:00,-06:00,False,,
+Tegucigalpa,Honduras,14.0723,-87.1921,850848,America/Tegucigalpa,-06:00,-06:00,False,1578,Founded
+San Salvador,El Salvador,13.6929,-89.2182,525990,America/El_Salvador,-06:00,-06:00,False,1525,Founded
+Belize City,Belize,17.5046,-88.1962,65222,America/Belize,-06:00,-06:00,False,,
+Kingston,Jamaica,18.0179,-76.8099,937700,America/Jamaica,-05:00,-05:00,False,1692,Founded after the Port Royal earthquake
+Santo Domingo,Dominican Republic,18.4861,-69.9312,2201941,America/Santo_Domingo,-04:00,-04:00,False,1496,Founded by Bartholomew Columbus
+Port-au-Prince,Haiti,18.5944,-72.3074,1234742,America/Port-au-Prince,-05:00,-04:00,True,1749,Founded
+San Juan,Puerto Rico,18.4655,-66.1057,418140,America/Puerto_Rico,-04:00,-04:00,False,1521,Founded
+Nassau,Bahamas,25.048,-77.3554,227940,America/Nassau,-05:00,-04:00,True,1670,"Founded as Charles Town, renamed Nassau in 1695"
+Bridgetown,Barbados,13.1132,-59.5988,98511,America/Barbados,-04:00,-04:00,False,1628,Founded
+Port of Spain,Trinidad and Tobago,10.6549,-61.5019,49031,America/Port_of_Spain,-04:00,-04:00,False,1560,Founded by the Spanish
+Georgetown,Guyana,6.8013,-58.1551,235017,America/Guyana,-04:00,-04:00,False,1781,Founded by the French
+Paramaribo,Suriname,5.852,-55.2038,223757,America/Paramaribo,-03:00,-03:00,False,1613,"Founded by the French, later a Dutch colony"
+Caracas,Venezuela,10.4806,-66.9036,3000000,America/Caracas,-04:00,-04:00,False,1567,Founded
+Maracaibo,Venezuela,10.6427,-71.6125,1752602,America/Caracas,-04:00,-04:00,False,1574,Refounded by the Spanish (first attempt 1529)
+Valencia,Venezuela,10.162,-68.0077,1619470,America/Caracas,-04:00,-04:00,False,1555,Founded
+Quito,Ecuador,-0.1807,-78.4678,2781641,America/Guayaquil,-05:00,-05:00,False,1534,Founded by the Spanish (indigenous settlement predates this)
+La Paz,Bolivia,-16.5,-68.15,2004652,America/La_Paz,-04:00,-04:00,False,1548,Founded by the Spanish
+Santa Cruz de la Sierra,Bolivia,-17.7833,-63.1821,1831434,America/La_Paz,-04:00,-04:00,False,1561,Founded
+Sucre,Bolivia,-19.0333,-65.2627,224838,America/La_Paz,-04:00,-04:00,False,1538,Founded
+Asuncion,Paraguay,-25.2637,-57.5759,1482200,America/Asuncion,-03:00,-03:00,False,1537,Founded
+Montevideo,Uruguay,-34.9011,-56.1645,1270737,America/Montevideo,-03:00,-03:00,False,1724,Founded
+Rosario,Argentina,-32.9468,-60.6393,948312,America/Argentina/Cordoba,-03:00,-03:00,False,,
+Mendoza,Argentina,-32.8908,-68.8272,114893,America/Argentina/Mendoza,-03:00,-03:00,False,1561,Founded
+La Plata,Argentina,-34.9214,-57.9544,195443,America/Argentina/Buenos_Aires,-03:00,-03:00,False,1882,Founded as the planned capital of Buenos Aires Province
+Mar del Plata,Argentina,-38.0055,-57.5426,593337,America/Argentina/Buenos_Aires,-03:00,-03:00,False,,
+Tucuman,Argentina,-26.8083,-65.2176,548866,America/Argentina/Tucuman,-03:00,-03:00,False,1565,Founded
+Barranquilla,Colombia,10.9639,-74.7964,1206319,America/Bogota,-05:00,-05:00,False,1629,Founded
+Cartagena,Colombia,10.391,-75.4794,914552,America/Bogota,-05:00,-05:00,False,1533,Founded
+Bucaramanga,Colombia,7.1193,-73.1227,581130,America/Bogota,-05:00,-05:00,False,1622,Founded
+Cucuta,Colombia,7.8939,-72.5078,777106,America/Bogota,-05:00,-05:00,False,,
+Iquitos,Peru,-3.7437,-73.2516,377609,America/Lima,-05:00,-05:00,False,1757,Founded as a Jesuit mission
+Arequipa,Peru,-16.409,-71.5375,1195700,America/Lima,-05:00,-05:00,False,1540,Founded
+Trujillo,Peru,-8.1116,-79.029,1067700,America/Lima,-05:00,-05:00,False,1534,Founded
+Belem,Brazil,-1.4558,-48.4902,1499641,America/Belem,-03:00,-03:00,False,1616,Founded
+Goiania,Brazil,-16.6869,-49.2648,1536097,America/Sao_Paulo,-03:00,-03:00,False,1933,Founded as a planned state capital
+Campinas,Brazil,-22.9099,-47.0626,1031554,America/Sao_Paulo,-03:00,-03:00,False,,
+Sao Luis,Brazil,-2.5307,-44.3068,917237,America/Fortaleza,-03:00,-03:00,False,1612,Founded by the French
+Maceio,Brazil,-9.6498,-35.7089,1031597,America/Maceio,-03:00,-03:00,False,1815,Founded
+Natal,Brazil,-5.7945,-35.211,896708,America/Fortaleza,-03:00,-03:00,False,1599,Founded
+Teresina,Brazil,-5.0892,-42.8016,871126,America/Fortaleza,-03:00,-03:00,False,,
+Joao Pessoa,Brazil,-7.1195,-34.845,817511,America/Fortaleza,-03:00,-03:00,False,1585,Founded
+Aracaju,Brazil,-10.9472,-37.0731,664908,America/Maceio,-03:00,-03:00,False,1855,Founded as a planned state capital
+Cuiaba,Brazil,-15.6014,-56.0979,618124,America/Cuiaba,-04:00,-04:00,False,1719,Founded
+Campo Grande,Brazil,-20.4697,-54.6201,906092,America/Campo_Grande,-04:00,-04:00,False,,
+Florianopolis,Brazil,-27.5954,-48.548,508826,America/Sao_Paulo,-03:00,-03:00,False,,
+Vitoria,Brazil,-20.3155,-40.3128,312656,America/Sao_Paulo,-03:00,-03:00,False,1551,Founded
+Reunion,France,-21.1151,55.5364,910985,Indian/Reunion,+04:00,+04:00,False,,
+Tananarive,Madagascar,-18.8792,47.5079,1349501,Indian/Antananarivo,+03:00,+03:00,False,,
+Port Louis,Mauritius,-20.1609,57.5012,155226,Indian/Mauritius,+04:00,+04:00,False,1735,Founded by the French
+Victoria,Seychelles,-4.6191,55.4513,22881,Indian/Mahe,+04:00,+04:00,False,,
+Moroni,Comoros,-11.7022,43.2551,74749,Indian/Comoro,+03:00,+03:00,False,,
+Djibouti City,Djibouti,11.5721,43.1456,776966,Africa/Djibouti,+03:00,+03:00,False,,
+Asmara,Eritrea,15.3229,38.9251,563930,Africa/Asmara,+03:00,+03:00,False,1897,Became the Italian colonial capital
+Juba,South Sudan,4.8594,31.5713,450000,Africa/Juba,+02:00,+02:00,False,1922,Founded
+Kigali,Rwanda,-1.9441,30.0619,1132686,Africa/Kigali,+02:00,+02:00,False,1907,Founded by the Germans
+Bujumbura,Burundi,-3.3822,29.3644,769317,Africa/Bujumbura,+02:00,+02:00,False,1897,Founded by the Germans
+Lilongwe,Malawi,-13.9626,33.7741,1115815,Africa/Blantyre,+02:00,+02:00,False,1902,Founded
+Blantyre,Malawi,-15.7861,35.0058,902588,Africa/Blantyre,+02:00,+02:00,False,1876,Founded as a mission station
+Bulawayo,Zimbabwe,-20.15,28.5833,665952,Africa/Harare,+02:00,+02:00,False,1840,Founded as the Ndebele royal capital
+Beira,Mozambique,-19.8436,34.8389,687764,Africa/Maputo,+02:00,+02:00,False,1890,Founded
+Livingstone,Zambia,-17.8419,25.8543,178361,Africa/Lusaka,+02:00,+02:00,False,,
+Ndola,Zambia,-12.9587,28.6366,627503,Africa/Lusaka,+02:00,+02:00,False,,
+Gaborone Metro,Botswana,-24.6282,25.9231,246325,Africa/Gaborone,+02:00,+02:00,False,,
+Walvis Bay,Namibia,-22.9575,14.5053,73598,Africa/Windhoek,+02:00,+02:00,False,,
+Durban,South Africa,-29.8587,31.0218,3338026,Africa/Johannesburg,+02:00,+02:00,False,1824,Founded
+Pretoria,South Africa,-25.7479,28.2293,2112693,Africa/Johannesburg,+02:00,+02:00,False,1855,Founded
+Port Elizabeth,South Africa,-33.9608,25.6022,1050078,Africa/Johannesburg,+02:00,+02:00,False,1820,Founded
+Bloemfontein,South Africa,-29.0852,26.1596,556637,Africa/Johannesburg,+02:00,+02:00,False,1846,Founded
+East London,South Africa,-33.0153,27.9116,478676,Africa/Johannesburg,+02:00,+02:00,False,1836,Founded
+Polokwane,South Africa,-23.9045,29.4689,272461,Africa/Johannesburg,+02:00,+02:00,False,,
+Nelspruit,South Africa,-25.4747,30.9695,110159,Africa/Johannesburg,+02:00,+02:00,False,,
+Kimberley,South Africa,-28.7282,24.7499,142089,Africa/Johannesburg,+02:00,+02:00,False,1871,Founded after diamond discovery
+Kigoma,Tanzania,-4.8766,29.6266,232388,Africa/Dar_es_Salaam,+03:00,+03:00,False,,
+Mwanza,Tanzania,-2.5164,32.9175,1104521,Africa/Dar_es_Salaam,+03:00,+03:00,False,,
+Arusha,Tanzania,-3.3869,36.683,617631,Africa/Dar_es_Salaam,+03:00,+03:00,False,,
+Zanzibar City,Tanzania,-6.1659,39.2026,709809,Africa/Dar_es_Salaam,+03:00,+03:00,False,,
+Mombasa,Kenya,-4.0435,39.6682,1208333,Africa/Nairobi,+03:00,+03:00,False,,
+Kisumu,Kenya,-0.0917,34.768,397957,Africa/Nairobi,+03:00,+03:00,False,,
+Nakuru,Kenya,-0.3031,36.08,570674,Africa/Nairobi,+03:00,+03:00,False,,
+Eldoret,Kenya,0.5143,35.2698,475716,Africa/Nairobi,+03:00,+03:00,False,,
+Jinja,Uganda,0.4244,33.2041,93061,Africa/Kampala,+03:00,+03:00,False,1901,Founded
+Gulu,Uganda,2.7724,32.2881,177400,Africa/Kampala,+03:00,+03:00,False,,
+Entebbe,Uganda,0.0512,32.4637,102600,Africa/Kampala,+03:00,+03:00,False,1893,Founded
+Kisangani,DR Congo,0.515,25.1913,1181788,Africa/Lubumbashi,+02:00,+02:00,False,1883,Founded by Henry Morton Stanley
+Lubumbashi,DR Congo,-11.6609,27.4794,2221925,Africa/Lubumbashi,+02:00,+02:00,False,1910,Founded as Elisabethville
+Mbuji-Mayi,DR Congo,-6.136,23.589,2101332,Africa/Lubumbashi,+02:00,+02:00,False,,
+Brazzaville,Congo,-4.2634,15.2429,1982000,Africa/Brazzaville,+01:00,+01:00,False,1880,Founded by Pierre Savorgnan de Brazza
+Pointe-Noire,Congo,-4.7761,11.8636,1032000,Africa/Brazzaville,+01:00,+01:00,False,1922,Founded
+Libreville,Gabon,0.4162,9.4673,846090,Africa/Libreville,+01:00,+01:00,False,1849,Founded by freed slaves
+Malabo,Equatorial Guinea,3.7523,8.7742,155963,Africa/Malabo,+01:00,+01:00,False,1827,Founded by the British as Port Clarence
+Sao Tome,Sao Tome and Principe,0.3365,6.7273,53300,Africa/Sao_Tome,+00:00,+00:00,False,1493,Founded by the Portuguese
+Porto-Novo,Benin,6.4969,2.6289,264320,Africa/Porto-Novo,+01:00,+01:00,False,,
+Cotonou,Benin,6.3703,2.3912,679012,Africa/Porto-Novo,+01:00,+01:00,False,,
+Lome Metro,Togo,6.1319,1.2228,2188376,Africa/Lome,+00:00,+00:00,False,,
+Kumasi,Ghana,6.6885,-1.6244,2544530,Africa/Accra,+00:00,+00:00,False,1680,Founded as the Ashanti capital
+Tamale,Ghana,9.4008,-0.8393,464316,Africa/Accra,+00:00,+00:00,False,,
+Abuja,Nigeria,9.0765,7.3986,2690000,Africa/Lagos,+01:00,+01:00,False,1976,Founded as a planned capital
+Port Harcourt,Nigeria,4.8156,7.0498,2120000,Africa/Lagos,+01:00,+01:00,False,1912,Founded by the British
+Benin City,Nigeria,6.335,5.6037,1782000,Africa/Lagos,+01:00,+01:00,False,1180,Traditional founding date of Benin Empire capital
+Enugu,Nigeria,6.4413,7.4989,950000,Africa/Lagos,+01:00,+01:00,False,,
+Onitsha,Nigeria,6.1667,6.7833,1553000,Africa/Lagos,+01:00,+01:00,False,,
+Zaria,Nigeria,11.0855,7.7199,980000,Africa/Lagos,+01:00,+01:00,False,1536,Traditional founding date
+Jos,Nigeria,9.8965,8.8583,1040000,Africa/Lagos,+01:00,+01:00,False,,
+Sokoto,Nigeria,13.0059,5.2476,1040000,Africa/Lagos,+01:00,+01:00,False,1809,Founded as capital of the Sokoto Caliphate
+Nouakchott,Mauritania,18.0735,-15.9582,1184530,Africa/Nouakchott,+00:00,+00:00,False,1958,Founded as a planned capital
+Bissau,Guinea-Bissau,11.8636,-15.5977,439704,Africa/Bissau,+00:00,+00:00,False,1687,Founded by the Portuguese
+Praia,Cabo Verde,14.933,-23.5133,137868,Atlantic/Cape_Verde,-01:00,-01:00,False,1615,Founded
+Banjul,Gambia,13.4549,-16.579,37274,Africa/Banjul,+00:00,+00:00,False,1816,Founded by the British
+Monrovia,Liberia,6.3004,-10.7969,1542549,Africa/Monrovia,+00:00,+00:00,False,1822,Founded by the American Colonization Society
+Yamoussoukro,Ivory Coast,6.8276,-5.2893,275686,Africa/Abidjan,+00:00,+00:00,False,,
+Bouake,Ivory Coast,7.6906,-5.03,832371,Africa/Abidjan,+00:00,+00:00,False,,
+Zinder,Niger,13.8072,8.988,318874,Africa/Niamey,+01:00,+01:00,False,,
+Sfax,Tunisia,34.7406,10.7603,280566,Africa/Tunis,+01:00,+01:00,False,849,Founded
+Oran,Algeria,35.6969,-0.6331,803329,Africa/Algiers,+01:00,+01:00,False,903,Founded by Andalusian traders
+Constantine,Algeria,36.365,6.6147,448028,Africa/Algiers,+01:00,+01:00,False,,
+Marrakesh,Morocco,31.6295,-7.9811,995871,Africa/Casablanca,+01:00,+01:00,False,1070,Founded by the Almoravids
+Fes,Morocco,34.0181,-5.0078,1191905,Africa/Casablanca,+01:00,+01:00,False,789,Founded by Idris I
+Tangier,Morocco,35.7595,-5.834,1035141,Africa/Casablanca,+01:00,+01:00,False,,
+Agadir,Morocco,30.4278,-9.5981,698310,Africa/Casablanca,+01:00,+01:00,False,1505,Founded by the Portuguese
+Benghazi,Libya,32.1167,20.0667,757490,Africa/Tripoli,+02:00,+02:00,False,-525,Greek colony of Euesperides founded
+Misrata,Libya,32.3754,15.0925,355657,Africa/Tripoli,+02:00,+02:00,False,,
+Port Said,Egypt,31.2653,32.3019,780515,Africa/Cairo,+02:00,+03:00,True,1859,Founded with construction of the Suez Canal
+Suez,Egypt,29.9668,32.5498,699541,Africa/Cairo,+02:00,+03:00,True,,
+Giza,Egypt,30.0131,31.2089,4367343,Africa/Cairo,+02:00,+03:00,True,,
+Luxor,Egypt,25.6872,32.6396,422407,Africa/Cairo,+02:00,+03:00,True,,
+Aswan,Egypt,24.0889,32.8998,379774,Africa/Cairo,+02:00,+03:00,True,,
+Basra,Iraq,30.5085,47.7835,1326564,Asia/Baghdad,+03:00,+03:00,False,636,Founded by order of Caliph Umar
+Mosul,Iraq,36.3489,43.1189,1683000,Asia/Baghdad,+03:00,+03:00,False,,
+Erbil,Iraq,36.1901,44.0091,1612700,Asia/Baghdad,+03:00,+03:00,False,,
+Najaf,Iraq,31.9958,44.3417,482576,Asia/Baghdad,+03:00,+03:00,False,791,Grew around the shrine of Ali
+Karbala,Iraq,32.616,44.0249,1218732,Asia/Baghdad,+03:00,+03:00,False,,
+Aleppo,Syria,36.2021,37.1343,2098210,Asia/Damascus,+03:00,+03:00,False,,
+Homs,Syria,34.7324,36.7137,775404,Asia/Damascus,+03:00,+03:00,False,,
+Latakia,Syria,35.5317,35.7913,709000,Asia/Damascus,+03:00,+03:00,False,,
+Isfahan,Iran,32.6546,51.668,1547164,Asia/Tehran,+03:30,+03:30,False,,
+Mashhad,Iran,36.2605,59.6168,2307177,Asia/Tehran,+03:30,+03:30,False,818,Grew around the shrine of Imam Reza
+Tabriz,Iran,38.08,46.2919,1424641,Asia/Tehran,+03:30,+03:30,False,,
+Shiraz,Iran,29.5918,52.5837,1249942,Asia/Tehran,+03:30,+03:30,False,693,Founded/rebuilt by Arab conquerors
+Qom,Iran,34.6401,50.8764,900000,Asia/Tehran,+03:30,+03:30,False,,
+Karaj,Iran,35.84,50.9391,1448075,Asia/Tehran,+03:30,+03:30,False,,
+Ahvaz,Iran,31.3183,48.6706,841145,Asia/Tehran,+03:30,+03:30,False,,
+Herat,Afghanistan,34.3529,62.2044,574300,Asia/Kabul,+04:30,+04:30,False,,
+Kandahar,Afghanistan,31.6289,65.7372,523300,Asia/Kabul,+04:30,+04:30,False,,
+Mazar-i-Sharif,Afghanistan,36.709,67.1109,523300,Asia/Kabul,+04:30,+04:30,False,1481,Grew around the shrine of Ali (traditional site)
+Samarkand,Uzbekistan,39.627,66.975,595200,Asia/Samarkand,+05:00,+05:00,False,-700,Ancient Sogdian city founded
+Bukhara,Uzbekistan,39.7747,64.4286,280187,Asia/Samarkand,+05:00,+05:00,False,,
+Nur-Sultan,Kazakhstan,51.1694,71.4491,1544142,Asia/Almaty,+05:00,+05:00,False,,
+Shymkent,Kazakhstan,42.3417,69.5901,1200000,Asia/Almaty,+05:00,+05:00,False,,
+Aktobe,Kazakhstan,50.2839,57.167,500757,Asia/Aqtobe,+05:00,+05:00,False,1869,Founded as a Russian fort
+Karaganda,Kazakhstan,49.8047,73.1094,497777,Asia/Almaty,+05:00,+05:00,False,1934,Founded as a mining town
+Osh,Kyrgyzstan,40.5283,72.7985,322164,Asia/Bishkek,+06:00,+06:00,False,,
+Khujand,Tajikistan,40.2833,69.6333,191000,Asia/Dushanbe,+05:00,+05:00,False,,
+Mary,Turkmenistan,37.6,61.8333,167027,Asia/Ashgabat,+05:00,+05:00,False,,
+Erdenet,Mongolia,49.0333,104.0833,97814,Asia/Ulaanbaatar,+08:00,+08:00,False,1974,Founded as a mining town
+Khovd,Mongolia,48.0056,91.6419,29800,Asia/Hovd,+07:00,+07:00,False,1685,Founded
+Vladikavkaz,Russia,43.0241,44.6814,306258,Europe/Moscow,+03:00,+03:00,False,1784,Founded as a fortress
+Grozny,Russia,43.3178,45.6949,297137,Europe/Moscow,+03:00,+03:00,False,1818,Founded as a fortress
+Makhachkala,Russia,42.9849,47.5047,596356,Europe/Moscow,+03:00,+03:00,False,1844,Founded as a fortress
+Krasnodar,Russia,45.0355,38.9753,899541,Europe/Moscow,+03:00,+03:00,False,1793,Founded as a Cossack settlement
+Sochi,Russia,43.6028,39.7342,327608,Europe/Moscow,+03:00,+03:00,False,1838,Founded as a fort
+Saratov,Russia,51.5924,46.0348,844858,Europe/Saratov,+04:00,+04:00,False,1590,Founded as a fortress
+Tolyatti,Russia,53.5303,49.3461,702879,Europe/Samara,+04:00,+04:00,False,1737,Founded as Stavropol-on-Volga
+Izhevsk,Russia,56.8526,53.2115,648213,Europe/Samara,+04:00,+04:00,False,1760,Founded
+Barnaul,Russia,53.3606,83.7636,632372,Asia/Barnaul,+07:00,+07:00,False,1730,Founded
+Ulyanovsk,Russia,54.3282,48.3866,626540,Europe/Ulyanovsk,+04:00,+04:00,False,1648,Founded as Simbirsk
+Irkutsk,Russia,52.2978,104.2964,623869,Asia/Irkutsk,+08:00,+08:00,False,1661,Founded
+Khabarovsk,Russia,48.4827,135.0838,618150,Asia/Vladivostok,+10:00,+10:00,False,1858,Founded
+Yaroslavl,Russia,57.6261,39.8845,608722,Europe/Moscow,+03:00,+03:00,False,1010,Founded
+Tomsk,Russia,56.4977,84.9744,574002,Asia/Tomsk,+07:00,+07:00,False,1604,Founded
+Orenburg,Russia,51.7727,55.0988,564773,Asia/Yekaterinburg,+05:00,+05:00,False,1743,Founded
+Kemerovo,Russia,55.3333,86.0833,558973,Asia/Novokuznetsk,+07:00,+07:00,False,1918,Founded
+Ryazan,Russia,54.6296,39.7419,538962,Europe/Moscow,+03:00,+03:00,False,1095,Founded as Pereyaslavl-Ryazansky
+Naberezhnye Chelny,Russia,55.7436,52.3958,509870,Europe/Moscow,+03:00,+03:00,False,1626,Founded
+Astrakhan,Russia,46.3497,48.0408,533925,Europe/Astrakhan,+04:00,+04:00,False,1558,Founded
+Penza,Russia,53.2001,45.0,523553,Europe/Moscow,+03:00,+03:00,False,1663,Founded as a fortress
+Lipetsk,Russia,52.6031,39.5708,509735,Europe/Moscow,+03:00,+03:00,False,1703,Founded
+Kirov,Russia,58.6035,49.6679,507155,Europe/Kirov,+03:00,+03:00,False,1181,Founded as Khlynov
+Cheboksary,Russia,56.1439,47.2489,492331,Europe/Moscow,+03:00,+03:00,False,1469,Founded
+Tver,Russia,56.8587,35.9006,420065,Europe/Moscow,+03:00,+03:00,False,1135,First documented mention
+Kursk,Russia,51.7373,36.1874,448733,Europe/Moscow,+03:00,+03:00,False,1032,First documented mention
+Stavropol,Russia,45.0428,41.9734,433931,Europe/Moscow,+03:00,+03:00,False,1777,Founded as a fortress
+Ivanovo,Russia,57.0004,40.9739,406113,Europe/Moscow,+03:00,+03:00,False,,
+Bryansk,Russia,53.2434,34.3644,427236,Europe/Moscow,+03:00,+03:00,False,985,First documented mention
+Belgorod,Russia,50.5977,36.5858,345289,Europe/Moscow,+03:00,+03:00,False,1596,Founded as a fortress
+Kaliningrad,Russia,54.7104,20.4522,475056,Europe/Kaliningrad,+02:00,+02:00,False,1255,Founded as Konigsberg by the Teutonic Knights
+Vladimir,Russia,56.129,40.407,357024,Europe/Moscow,+03:00,+03:00,False,1108,Founded by Vladimir Monomakh
+Kaluga,Russia,54.5293,36.2754,340851,Europe/Moscow,+03:00,+03:00,False,1371,First documented mention
+Chita,Russia,52.034,113.4994,349005,Asia/Chita,+09:00,+09:00,False,1653,Founded
+Yakutsk,Russia,62.0397,129.742,235600,Asia/Yakutsk,+09:00,+09:00,False,1632,Founded
+Murmansk,Russia,68.9585,33.0827,295374,Europe/Moscow,+03:00,+03:00,False,1916,Founded
+Petropavlovsk-Kamchatsky,Russia,53.0195,158.6499,181216,Asia/Kamchatka,+12:00,+12:00,False,1740,Founded
+Magadan,Russia,59.5638,150.8039,92782,Asia/Magadan,+11:00,+11:00,False,1929,Founded
+Yuzhno-Sakhalinsk,Russia,46.9591,142.7383,198973,Asia/Sakhalin,+11:00,+11:00,False,1882,Founded as Vladimirovka
+Norilsk,Russia,69.3535,88.2027,140800,Asia/Krasnoyarsk,+07:00,+07:00,False,1935,Founded
+Ekaterinburg Metro,Russia,56.8389,60.6057,1495066,Asia/Yekaterinburg,+05:00,+05:00,False,,
+Cardiff,United Kingdom,51.4816,-3.1791,372089,Europe/London,+00:00,+01:00,True,1081,Norman castle built
+Belfast,United Kingdom,54.5973,-5.9301,348005,Europe/London,+00:00,+01:00,True,1177,Norman castle built
+Nottingham,United Kingdom,52.9548,-1.1581,323632,Europe/London,+00:00,+01:00,True,,
+Sheffield,United Kingdom,53.3811,-1.4701,556500,Europe/London,+00:00,+01:00,True,,
+Newcastle upon Tyne,United Kingdom,54.9783,-1.6178,300125,Europe/London,+00:00,+01:00,True,1080,"Norman ""New Castle"" built"
+Southampton,United Kingdom,50.9097,-1.4044,269781,Europe/London,+00:00,+01:00,True,,
+Leicester,United Kingdom,52.6369,-1.1398,368600,Europe/London,+00:00,+01:00,True,,
+Coventry,United Kingdom,52.4068,-1.5197,345324,Europe/London,+00:00,+01:00,True,,
+Aberdeen,United Kingdom,57.1497,-2.0943,198590,Europe/London,+00:00,+01:00,True,,
+Le Havre,France,49.4944,0.1079,185972,Europe/Paris,+01:00,+02:00,True,1517,Founded by King Francis I
+Rennes,France,48.1173,-1.6778,227830,Europe/Paris,+01:00,+02:00,True,,
+Reims,France,49.2583,4.0317,196565,Europe/Paris,+01:00,+02:00,True,,
+Saint-Etienne,France,45.4397,4.3872,176280,Europe/Paris,+01:00,+02:00,True,,
+Toulon,France,43.1242,5.928,168701,Europe/Paris,+01:00,+02:00,True,,
+Grenoble,France,45.1885,5.7245,158552,Europe/Paris,+01:00,+02:00,True,-43,Roman Cularo founded
+Dijon,France,47.322,5.0415,159941,Europe/Paris,+01:00,+02:00,True,,
+Angers,France,47.4784,-0.5632,168279,Europe/Paris,+01:00,+02:00,True,,
+Nimes,France,43.8367,4.3601,148236,Europe/Paris,+01:00,+02:00,True,,
+Villeurbanne,France,45.7669,4.8794,131445,Europe/Paris,+01:00,+02:00,True,,
+Augsburg,Germany,48.3705,10.8978,301105,Europe/Berlin,+01:00,+02:00,True,-15,Roman Augusta Vindelicorum founded
+Wiesbaden,Germany,50.0782,8.2398,288850,Europe/Berlin,+01:00,+02:00,True,,
+Monchengladbach,Germany,51.1805,6.4428,261742,Europe/Berlin,+01:00,+02:00,True,,
+Gelsenkirchen,Germany,51.5177,7.0857,270028,Europe/Berlin,+01:00,+02:00,True,,
+Braunschweig,Germany,52.2689,10.5268,244715,Europe/Berlin,+01:00,+02:00,True,861,First documented mention
+Kiel,Germany,54.3233,10.1228,252668,Europe/Berlin,+01:00,+02:00,True,1242,Founded
+Chemnitz,Germany,50.8278,12.9214,247220,Europe/Berlin,+01:00,+02:00,True,,
+Aachen,Germany,50.7753,6.0839,265208,Europe/Berlin,+01:00,+02:00,True,,
+Halle,Germany,51.4964,11.9688,237865,Europe/Berlin,+01:00,+02:00,True,806,First documented mention
+Magdeburg,Germany,52.1205,11.6276,244329,Europe/Berlin,+01:00,+02:00,True,805,Founded by Charlemagne
+Freiburg,Germany,47.999,7.8421,237460,Europe/Berlin,+01:00,+02:00,True,,
+Krefeld,Germany,51.3388,6.5853,237984,Europe/Berlin,+01:00,+02:00,True,,
+Mainz,Germany,49.9929,8.2473,222889,Europe/Berlin,+01:00,+02:00,True,-13,Roman Mogontiacum founded
+Erfurt,Germany,50.9848,11.0299,218793,Europe/Berlin,+01:00,+02:00,True,742,Founded as a bishopric
+Rostock,Germany,54.0887,12.14,198293,Europe/Berlin,+01:00,+02:00,True,1218,Granted city rights
+Kassel,Germany,51.3127,9.4797,197230,Europe/Berlin,+01:00,+02:00,True,913,First documented mention
+Bergamo,Italy,45.6983,9.6773,121200,Europe/Rome,+01:00,+02:00,True,,
+Perugia,Italy,43.1122,12.3888,120137,Europe/Rome,+01:00,+02:00,True,,
+Padua,Italy,45.4064,11.8768,203725,Europe/Rome,+01:00,+02:00,True,,
+Trieste,Italy,45.6495,13.7768,204338,Europe/Rome,+01:00,+02:00,True,,
+Brescia,Italy,45.5416,10.2118,200423,Europe/Rome,+01:00,+02:00,True,,
+Parma,Italy,44.8015,10.3279,198292,Europe/Rome,+01:00,+02:00,True,,
+Modena,Italy,44.6471,10.9252,184732,Europe/Rome,+01:00,+02:00,True,-183,Roman colony of Mutina founded
+Reggio Calabria,Italy,38.1113,15.6619,182455,Europe/Rome,+01:00,+02:00,True,,
+Messina,Italy,38.1938,15.554,219948,Europe/Rome,+01:00,+02:00,True,,
+Alicante,Spain,38.3452,-0.481,348901,Europe/Madrid,+01:00,+02:00,True,,
+Cordoba,Spain,37.8882,-4.7794,325708,Europe/Madrid,+01:00,+02:00,True,-169,Roman colony founded by Marcus Claudius Marcellus
+Valladolid,Spain,41.6523,-4.7245,300618,Europe/Madrid,+01:00,+02:00,True,,
+Vigo,Spain,42.2406,-8.7207,293642,Europe/Madrid,+01:00,+02:00,True,,
+Gijon,Spain,43.5322,-5.6611,271780,Europe/Madrid,+01:00,+02:00,True,,
+Vitoria-Gasteiz,Spain,42.8467,-2.6716,257407,Europe/Madrid,+01:00,+02:00,True,,
+Braga,Portugal,41.5454,-8.4265,193324,Europe/Lisbon,+00:00,+01:00,True,-20,Roman Bracara Augusta founded
+Coimbra,Portugal,40.2033,-8.4103,140796,Europe/Lisbon,+00:00,+01:00,True,,
+Funchal,Portugal,32.6669,-16.9241,105795,Atlantic/Madeira,+00:00,+01:00,True,,
+Lausanne,Switzerland,46.5197,6.6323,139111,Europe/Zurich,+01:00,+02:00,True,,
+Lucerne,Switzerland,47.0502,8.3093,81691,Europe/Zurich,+01:00,+02:00,True,,
+St. Gallen,Switzerland,47.4245,9.3767,75833,Europe/Zurich,+01:00,+02:00,True,,
+Ghent,Belgium,51.0543,3.7174,265086,Europe/Brussels,+01:00,+02:00,True,,
+Charleroi,Belgium,50.4108,4.4446,200132,Europe/Brussels,+01:00,+02:00,True,,
+Liege,Belgium,50.6326,5.5797,195278,Europe/Brussels,+01:00,+02:00,True,705,Founded around a chapel
+Bruges,Belgium,51.2093,3.2247,118509,Europe/Brussels,+01:00,+02:00,True,,
+Groningen,Netherlands,53.2194,6.5665,244807,Europe/Amsterdam,+01:00,+02:00,True,1040,First documented mention
+Tilburg,Netherlands,51.5555,5.0913,221947,Europe/Amsterdam,+01:00,+02:00,True,,
+Nijmegen,Netherlands,51.8126,5.8372,177359,Europe/Amsterdam,+01:00,+02:00,True,-19,"Roman settlement founded, oldest city in the Netherlands"
+Aalborg,Denmark,57.0488,9.9217,142937,Europe/Copenhagen,+01:00,+02:00,True,,
+Odense,Denmark,55.4038,10.4024,180863,Europe/Copenhagen,+01:00,+02:00,True,988,First documented mention
+Kristiansand,Norway,58.1467,7.9956,117237,Europe/Oslo,+01:00,+02:00,True,,
+Trondheim,Norway,63.4305,10.3951,216518,Europe/Oslo,+01:00,+02:00,True,,
+Stavanger,Norway,58.97,5.7331,151669,Europe/Oslo,+01:00,+02:00,True,,
+Uppsala,Sweden,59.8586,17.6389,177074,Europe/Stockholm,+01:00,+02:00,True,,
+Vasteras,Sweden,59.6099,16.5448,127799,Europe/Stockholm,+01:00,+02:00,True,,
+Tampere,Finland,61.4978,23.761,260646,Europe/Helsinki,+02:00,+03:00,True,,
+Espoo,Finland,60.2055,24.6559,323910,Europe/Helsinki,+02:00,+03:00,True,,
+Cork,Ireland,51.8985,-8.4756,224004,Europe/Dublin,+00:00,+01:00,True,600,Founded as a monastic settlement by Saint Finbarr
+Galway,Ireland,53.2707,-9.0568,85910,Europe/Dublin,+00:00,+01:00,True,1124,"Castle built, town founded"
+Limerick,Ireland,52.6638,-8.6267,102287,Europe/Dublin,+00:00,+01:00,True,,
+Katowice Metro,Poland,50.2649,19.0238,286960,Europe/Warsaw,+01:00,+02:00,True,,
+Szczecin,Poland,53.4285,14.5528,395513,Europe/Warsaw,+01:00,+02:00,True,,
+Bydgoszcz,Poland,53.1235,18.0084,330038,Europe/Warsaw,+01:00,+02:00,True,,
+Lublin,Poland,51.2465,22.5684,336339,Europe/Warsaw,+01:00,+02:00,True,1213,First documented mention
+Bialystok,Poland,53.1325,23.1688,295683,Europe/Warsaw,+01:00,+02:00,True,,
+Pilsen,Czech Republic,49.7384,13.3736,168733,Europe/Prague,+01:00,+02:00,True,1295,Founded by King Wenceslaus II
+Olomouc,Czech Republic,49.5938,17.2509,99496,Europe/Prague,+01:00,+02:00,True,,
+Szeged,Hungary,46.253,20.1414,160766,Europe/Budapest,+01:00,+02:00,True,,
+Pecs,Hungary,46.0727,18.2323,145347,Europe/Budapest,+01:00,+02:00,True,,
+Miskolc,Hungary,48.1035,20.7784,154521,Europe/Budapest,+01:00,+02:00,True,,
+Nis,Serbia,43.3209,21.8958,250000,Europe/Belgrade,+01:00,+02:00,True,,
+Novi Sad,Serbia,45.2671,19.8335,215400,Europe/Belgrade,+01:00,+02:00,True,1694,Founded
+Banja Luka,Bosnia and Herzegovina,44.7722,17.191,221106,Europe/Sarajevo,+01:00,+02:00,True,,
+Podgorica,Montenegro,42.4304,19.2594,236852,Europe/Podgorica,+01:00,+02:00,True,,
+Pristina,Kosovo,42.6629,21.1655,550000,Europe/Belgrade,+01:00,+02:00,True,,
+Split,Croatia,43.5081,16.4402,149830,Europe/Zagreb,+01:00,+02:00,True,305,"Diocletian's Palace built, around which the city grew"
+Rijeka,Croatia,45.3271,14.4422,107964,Europe/Zagreb,+01:00,+02:00,True,,
+Kaunas,Lithuania,54.8985,23.9036,289380,Europe/Vilnius,+02:00,+03:00,True,1361,First documented mention
+Klaipeda,Lithuania,55.7033,21.1443,172292,Europe/Vilnius,+02:00,+03:00,True,1252,Founded by the Teutonic Knights as Memelburg
+Daugavpils,Latvia,55.8747,26.5363,78126,Europe/Riga,+02:00,+03:00,True,,
+Tartu,Estonia,58.3776,26.729,91407,Europe/Tallinn,+02:00,+03:00,True,1030,Founded by Yaroslav the Wise
+Kayseri,Turkey,38.7312,35.4787,1452458,Europe/Istanbul,+03:00,+03:00,False,,
+Konya,Turkey,37.8746,32.4932,1433861,Europe/Istanbul,+03:00,+03:00,False,,
+Gaziantep,Turkey,37.0662,37.3833,2222415,Europe/Istanbul,+03:00,+03:00,False,,
+Mersin,Turkey,36.8,34.6333,537842,Europe/Istanbul,+03:00,+03:00,False,,
+Diyarbakir,Turkey,37.9144,40.2306,1833684,Europe/Istanbul,+03:00,+03:00,False,,
+Eskisehir,Turkey,39.7767,30.5206,921630,Europe/Istanbul,+03:00,+03:00,False,,
+Samsun,Turkey,41.2867,36.33,394050,Europe/Istanbul,+03:00,+03:00,False,,
+Trabzon,Turkey,41.0027,39.7168,244083,Europe/Istanbul,+03:00,+03:00,False,-756,Greek colony of Trapezus founded
+Van,Turkey,38.4891,43.4089,525016,Europe/Istanbul,+03:00,+03:00,False,,
+Batumi,Georgia,41.6168,41.6367,186949,Asia/Tbilisi,+04:00,+04:00,False,,
+Gyumri,Armenia,40.7942,43.8461,114667,Asia/Yerevan,+04:00,+04:00,False,,
+Ganja,Azerbaijan,40.6828,46.3606,330663,Asia/Baku,+04:00,+04:00,False,,
+Nakhchivan,Azerbaijan,39.2089,45.4122,97200,Asia/Baku,+04:00,+04:00,False,,
+Salzburg,Austria,47.8095,13.055,157245,Europe/Vienna,+01:00,+02:00,True,696,Founded as a bishopric
+Graz,Austria,47.0707,15.4395,303270,Europe/Vienna,+01:00,+02:00,True,1128,First documented mention
+Linz,Austria,48.3069,14.2858,204846,Europe/Vienna,+01:00,+02:00,True,,
+Innsbruck,Austria,47.2692,11.4041,132493,Europe/Vienna,+01:00,+02:00,True,,
+Kagoshima Metro,Japan,31.5966,130.5571,595049,Asia/Tokyo,+09:00,+09:00,False,,
+Utsunomiya,Japan,36.5658,139.8836,518757,Asia/Tokyo,+09:00,+09:00,False,,
+Matsuyama,Japan,33.8392,132.7657,511192,Asia/Tokyo,+09:00,+09:00,False,,
+Kanazawa,Japan,36.5613,136.6562,466029,Asia/Tokyo,+09:00,+09:00,False,,
+Nagasaki,Japan,32.7503,129.8779,409118,Asia/Tokyo,+09:00,+09:00,False,1571,Opened as a port by the Portuguese
+Oita,Japan,33.2382,131.6126,477715,Asia/Tokyo,+09:00,+09:00,False,,
+Toyama,Japan,36.6953,137.2113,415844,Asia/Tokyo,+09:00,+09:00,False,,
+Gifu,Japan,35.4233,136.7607,402557,Asia/Tokyo,+09:00,+09:00,False,,
+Shizuoka,Japan,34.9756,138.3828,693389,Asia/Tokyo,+09:00,+09:00,False,,
+Toyohashi,Japan,34.7625,137.3915,377453,Asia/Tokyo,+09:00,+09:00,False,,
+Suwon,South Korea,37.2636,127.0286,1234582,Asia/Seoul,+09:00,+09:00,False,,
+Ulsan,South Korea,35.5384,129.3114,1098421,Asia/Seoul,+09:00,+09:00,False,,
+Changwon,South Korea,35.228,128.6811,1025702,Asia/Seoul,+09:00,+09:00,False,,
+Jeonju,South Korea,35.8242,127.148,638421,Asia/Seoul,+09:00,+09:00,False,,
+Cheongju,South Korea,36.6424,127.489,852147,Asia/Seoul,+09:00,+09:00,False,,
+Anshan,China,41.1079,122.9944,1450000,Asia/Shanghai,+08:00,+08:00,False,,
+Baotou,China,40.6572,109.8403,2150000,Asia/Shanghai,+08:00,+08:00,False,,
+Changchun,China,43.8171,125.3235,4714996,Asia/Shanghai,+08:00,+08:00,False,,
+Jilin,China,43.8378,126.5495,1895865,Asia/Shanghai,+08:00,+08:00,False,,
+Luoyang,China,34.6197,112.454,1390581,Asia/Shanghai,+08:00,+08:00,False,-770,Became capital of the Eastern Zhou dynasty
+Kaifeng,China,34.7986,114.3411,1451741,Asia/Shanghai,+08:00,+08:00,False,,
+Yangzhou,China,32.3936,119.4127,1584237,Asia/Shanghai,+08:00,+08:00,False,,
+Jinan,China,36.6512,117.1201,4335989,Asia/Shanghai,+08:00,+08:00,False,,
+Weifang,China,36.7069,119.1619,2044028,Asia/Shanghai,+08:00,+08:00,False,,
+Linyi,China,35.1038,118.3564,2743843,Asia/Shanghai,+08:00,+08:00,False,,
+Zaozhuang,China,34.8107,117.3237,899753,Asia/Shanghai,+08:00,+08:00,False,,
+Taian,China,36.2,117.1333,1735425,Asia/Shanghai,+08:00,+08:00,False,,
+Weihai,China,37.5133,122.12,844310,Asia/Shanghai,+08:00,+08:00,False,,
+Yantai,China,37.4638,121.4478,2227733,Asia/Shanghai,+08:00,+08:00,False,,
+Rizhao,China,35.4165,119.4552,661943,Asia/Shanghai,+08:00,+08:00,False,,
+Bengbu,China,32.9169,117.3898,972784,Asia/Shanghai,+08:00,+08:00,False,,
+Huaian,China,33.61,119.015,2494013,Asia/Shanghai,+08:00,+08:00,False,,
+Yancheng,China,33.3474,120.1633,1615717,Asia/Shanghai,+08:00,+08:00,False,,
+Nantong,China,31.9802,120.8946,2273326,Asia/Shanghai,+08:00,+08:00,False,,
+Zhenjiang,China,32.188,119.4245,950516,Asia/Shanghai,+08:00,+08:00,False,,
+Taizhou,China,32.4903,119.9151,1607108,Asia/Shanghai,+08:00,+08:00,False,,
+Lianyungang,China,34.5967,119.1789,2001009,Asia/Shanghai,+08:00,+08:00,False,,
+Anqing,China,30.5083,117.0439,804493,Asia/Shanghai,+08:00,+08:00,False,,
+Wuhu,China,31.3269,118.3762,1598165,Asia/Shanghai,+08:00,+08:00,False,,
+Ma'anshan,China,31.69,118.5063,741531,Asia/Shanghai,+08:00,+08:00,False,,
+Jiujiang,China,29.705,116.0017,1164268,Asia/Shanghai,+08:00,+08:00,False,,
+Ganzhou,China,25.8452,114.935,1977253,Asia/Shanghai,+08:00,+08:00,False,,
+Yichun,China,27.8043,114.4166,1045952,Asia/Shanghai,+08:00,+08:00,False,,
+Xiangyang,China,32.009,112.122,1294733,Asia/Shanghai,+08:00,+08:00,False,,
+Yichang,China,30.6919,111.2864,1350150,Asia/Shanghai,+08:00,+08:00,False,,
+Jingzhou,China,30.3372,112.2431,1052282,Asia/Shanghai,+08:00,+08:00,False,,
+Xiaogan,China,30.927,113.9169,908266,Asia/Shanghai,+08:00,+08:00,False,,
+Huanggang,China,30.4536,114.872,366769,Asia/Shanghai,+08:00,+08:00,False,,
+Shiyan,China,32.6295,110.7783,3460000,Asia/Shanghai,+08:00,+08:00,False,,
+Zhuzhou,China,27.8274,113.133,1129687,Asia/Shanghai,+08:00,+08:00,False,,
+Xiangtan,China,27.8296,112.9445,959303,Asia/Shanghai,+08:00,+08:00,False,,
+Hengyang,China,26.8965,112.6087,1075516,Asia/Shanghai,+08:00,+08:00,False,,
+Yueyang,China,29.3573,113.1287,991465,Asia/Shanghai,+08:00,+08:00,False,,
+Changde,China,29.0316,111.6989,1457419,Asia/Shanghai,+08:00,+08:00,False,,
+Zhangjiajie,China,29.1274,110.4791,441804,Asia/Shanghai,+08:00,+08:00,False,,
+Liuzhou,China,24.3264,109.4281,1436599,Asia/Shanghai,+08:00,+08:00,False,,
+Guilin,China,25.2736,110.29,1572300,Asia/Shanghai,+08:00,+08:00,False,,
+Beihai,China,21.4733,109.12,525329,Asia/Shanghai,+08:00,+08:00,False,,
+Sanya,China,18.2528,109.5119,1031396,Asia/Shanghai,+08:00,+08:00,False,,
+Haikou,China,20.0444,110.1989,2873358,Asia/Shanghai,+08:00,+08:00,False,,
+Zhanjiang,China,21.2707,110.3594,1400709,Asia/Shanghai,+08:00,+08:00,False,,
+Maoming,China,21.6699,110.9256,1307802,Asia/Shanghai,+08:00,+08:00,False,,
+Jiangmen,China,22.5789,113.0813,1795459,Asia/Shanghai,+08:00,+08:00,False,,
+Zhuhai,China,22.2707,113.5767,2207090,Asia/Shanghai,+08:00,+08:00,False,1979,Designated a Special Economic Zone; fishing settlement existed earlier
+Huizhou,China,23.1115,114.416,2900113,Asia/Shanghai,+08:00,+08:00,False,,
+Meizhou,China,24.2886,116.1225,992351,Asia/Shanghai,+08:00,+08:00,False,,
+Chaozhou,China,23.6618,116.6226,1750945,Asia/Shanghai,+08:00,+08:00,False,,
+Jieyang,China,23.5498,116.3728,1899394,Asia/Shanghai,+08:00,+08:00,False,,
+Yulin,China,22.654,110.181,1056743,Asia/Shanghai,+08:00,+08:00,False,,
+Baoding,China,38.8671,115.4646,2739887,Asia/Shanghai,+08:00,+08:00,False,,
+Tangshan,China,39.6304,118.1802,3372102,Asia/Shanghai,+08:00,+08:00,False,,
+Qinhuangdao,China,39.9354,119.5867,759718,Asia/Shanghai,+08:00,+08:00,False,,
+Handan Metro,China,36.625,114.5391,1358318,Asia/Shanghai,+08:00,+08:00,False,,
+Xingtai,China,37.0682,114.4995,798770,Asia/Shanghai,+08:00,+08:00,False,,
+Shijiazhuang,China,38.0428,114.5149,3938513,Asia/Shanghai,+08:00,+08:00,False,,
+Cangzhou,China,38.3037,116.8388,527681,Asia/Shanghai,+08:00,+08:00,False,,
+Hengshui,China,37.7361,115.701,522147,Asia/Shanghai,+08:00,+08:00,False,,
+Datong Metro,China,40.0768,113.3001,1850000,Asia/Shanghai,+08:00,+08:00,False,,
+Taiyuan,China,37.8706,112.5489,4303673,Asia/Shanghai,+08:00,+08:00,False,,
+Changzhi,China,36.1955,113.116,1214940,Asia/Shanghai,+08:00,+08:00,False,,
+Yuncheng,China,35.0267,111.0069,680036,Asia/Shanghai,+08:00,+08:00,False,,
+Yinchuan,China,38.4872,106.2309,1487579,Asia/Shanghai,+08:00,+08:00,False,,
+Lanzhou,China,36.0611,103.8343,3000000,Asia/Shanghai,+08:00,+08:00,False,,
+Xining,China,36.6171,101.7782,1677177,Asia/Shanghai,+08:00,+08:00,False,,
+Urumqi,China,43.8256,87.6168,3029372,Asia/Urumqi,+06:00,+06:00,False,,
+Kashgar,China,39.4704,75.9898,506640,Asia/Urumqi,+06:00,+06:00,False,,
+Lhasa,China,29.652,91.1721,118721,Asia/Shanghai,+08:00,+08:00,False,637,Became the Tibetan capital under Songtsen Gampo
+Hohhot,China,40.8426,111.7492,2350000,Asia/Shanghai,+08:00,+08:00,False,,
+Ordos,China,39.6086,109.7815,1940653,Asia/Shanghai,+08:00,+08:00,False,,
+Springfield,United States,39.7817,-89.6501,114394,America/Chicago,-06:00,-05:00,True,,
+Richmond,United States,37.5407,-77.436,226610,America/New_York,-05:00,-04:00,True,1737,Founded
+Boise,United States,43.615,-116.2023,235684,America/Boise,-07:00,-06:00,True,1863,Founded
+Des Moines,United States,41.5868,-93.625,214133,America/Chicago,-06:00,-05:00,True,1843,Founded as Fort Des Moines
+Madison,United States,43.0731,-89.4012,280305,America/Chicago,-06:00,-05:00,True,1836,Founded
+Little Rock,United States,34.7465,-92.2896,202591,America/Chicago,-06:00,-05:00,True,1821,Founded
+Jackson,United States,32.2988,-90.1848,153701,America/Chicago,-06:00,-05:00,True,1821,Founded
+Baton Rouge,United States,30.4515,-91.1871,227470,America/Chicago,-06:00,-05:00,True,1719,Founded by the French
+Birmingham,United States,33.5186,-86.8104,196357,America/Chicago,-06:00,-05:00,True,1871,Founded
+Louisville,United States,38.2527,-85.7585,624444,America/Kentucky/Louisville,-05:00,-04:00,True,1778,Founded
+Buffalo,United States,42.8864,-78.8784,258071,America/New_York,-05:00,-04:00,True,1789,Founded
+Rochester,United States,43.1566,-77.6088,209802,America/New_York,-05:00,-04:00,True,1789,Founded
+Providence,United States,41.824,-71.4128,190934,America/New_York,-05:00,-04:00,True,1636,Founded by Roger Williams
+Hartford,United States,41.7658,-72.6734,121054,America/New_York,-05:00,-04:00,True,1635,Founded
+Albany,United States,42.6526,-73.7562,101228,America/New_York,-05:00,-04:00,True,1614,Founded as Fort Nassau by the Dutch
+Charleston,United States,32.7765,-79.9311,132609,America/New_York,-05:00,-04:00,True,1670,Founded
+Savannah,United States,32.0809,-81.0912,147780,America/New_York,-05:00,-04:00,True,1733,Founded by James Oglethorpe
+Knoxville,United States,35.9606,-83.9207,190740,America/New_York,-05:00,-04:00,True,1791,Founded
+Chattanooga,United States,35.0456,-85.3097,181099,America/New_York,-05:00,-04:00,True,1839,Founded
+Spokane,United States,47.6588,-117.426,229447,America/Los_Angeles,-08:00,-07:00,True,1873,Founded
+Reno,United States,39.5296,-119.8138,264165,America/Los_Angeles,-08:00,-07:00,True,1868,Founded
+Salt Lake City,United States,40.7608,-111.891,215548,America/Denver,-07:00,-06:00,True,1847,Founded by Mormon pioneers
+Fargo,United States,46.8772,-96.7898,118523,America/Chicago,-06:00,-05:00,True,1871,Founded
+Sioux Falls,United States,43.546,-96.7313,171544,America/Chicago,-06:00,-05:00,True,,
+Wichita,United States,37.6872,-97.3301,396119,America/Chicago,-06:00,-05:00,True,1870,Founded
+Grand Rapids,United States,42.9634,-85.6681,195097,America/Detroit,-05:00,-04:00,True,1826,Founded
+Lexington,United States,38.0406,-84.5037,314488,America/New_York,-05:00,-04:00,True,1775,Founded
+Durham,United States,35.994,-78.8986,257636,America/New_York,-05:00,-04:00,True,,
+Winston-Salem,United States,36.0999,-80.2442,241218,America/New_York,-05:00,-04:00,True,,
+Greensboro,United States,36.0726,-79.792,285342,America/New_York,-05:00,-04:00,True,,
+Akron,United States,41.0814,-81.519,197542,America/New_York,-05:00,-04:00,True,1825,Founded
+Toledo,United States,41.6528,-83.5379,265638,America/New_York,-05:00,-04:00,True,1833,Founded
+Dayton,United States,39.7589,-84.1916,135512,America/New_York,-05:00,-04:00,True,1796,Founded
+Fort Lauderdale,United States,26.1224,-80.1373,183146,America/New_York,-05:00,-04:00,True,,
+St. Petersburg,United States,27.7676,-82.6403,257083,America/New_York,-05:00,-04:00,True,,
+Corpus Christi,United States,27.8006,-97.3964,316239,America/Chicago,-06:00,-05:00,True,,
+Lubbock,United States,33.5779,-101.8552,249042,America/Chicago,-06:00,-05:00,True,,
+Laredo,United States,27.5306,-99.4803,256153,America/Chicago,-06:00,-05:00,True,,
+Bakersfield,United States,35.3733,-119.0187,373640,America/Los_Angeles,-08:00,-07:00,True,1869,Founded
+Anaheim,United States,33.8366,-117.9143,350742,America/Los_Angeles,-08:00,-07:00,True,,
+Riverside,United States,33.9806,-117.3755,317261,America/Los_Angeles,-08:00,-07:00,True,,
+Stockton,United States,37.9577,-121.2908,305658,America/Los_Angeles,-08:00,-07:00,True,,
+Irvine,United States,33.6846,-117.8265,256927,America/Los_Angeles,-08:00,-07:00,True,,
+Santa Ana,United States,33.7455,-117.8677,310227,America/Los_Angeles,-08:00,-07:00,True,,
+Chula Vista,United States,32.6401,-117.0842,265757,America/Los_Angeles,-08:00,-07:00,True,,
+Fremont,United States,37.5485,-121.9886,232206,America/Los_Angeles,-08:00,-07:00,True,,
+Winnipeg Metro,Canada,49.8951,-97.1384,749607,America/Winnipeg,-06:00,-05:00,True,,
+Kelowna,Canada,49.888,-119.496,144576,America/Vancouver,-08:00,-07:00,True,1892,Founded
+London,Canada,42.9849,-81.2453,422324,America/Toronto,-05:00,-04:00,True,1826,Founded
+Kitchener,Canada,43.4516,-80.4925,256885,America/Toronto,-05:00,-04:00,True,,
+Windsor,Canada,42.3149,-83.0364,229660,America/Toronto,-05:00,-04:00,True,,
+Whitehorse,Canada,60.7212,-135.0568,28201,America/Whitehorse,-07:00,-07:00,False,1898,Founded during the Klondike Gold Rush
+Yellowknife,Canada,62.454,-114.3718,20340,America/Edmonton,-07:00,-06:00,True,1934,Founded after gold discovery
+Iqaluit,Canada,63.7467,-68.517,7429,America/Iqaluit,-05:00,-04:00,True,1942,Founded as a US airbase (originally Frobisher Bay)
+Salta,Argentina,-24.7859,-65.4117,520683,America/Argentina/Salta,-03:00,-03:00,False,,
+San Juan,Argentina,-31.5375,-68.5364,109123,America/Argentina/San_Juan,-03:00,-03:00,False,,
+Neuquen,Argentina,-38.9516,-68.0591,231198,America/Argentina/Salta,-03:00,-03:00,False,,
+Bahia Blanca,Argentina,-38.7183,-62.2663,299101,America/Argentina/Buenos_Aires,-03:00,-03:00,False,,
+Corrientes,Argentina,-27.4692,-58.8306,346334,America/Argentina/Cordoba,-03:00,-03:00,False,,
+Posadas,Argentina,-27.3671,-55.8961,305874,America/Argentina/Cordoba,-03:00,-03:00,False,,
+Resistencia,Argentina,-27.4514,-58.9867,290793,America/Argentina/Cordoba,-03:00,-03:00,False,,
+San Miguel de Tucuman,Argentina,-26.8083,-65.2176,548866,America/Argentina/Tucuman,-03:00,-03:00,False,,
+Concepcion,Chile,-36.8201,-73.0444,223574,America/Santiago,-03:00,-04:00,True,1550,Founded by Pedro de Valdivia
+Antofagasta,Chile,-23.6509,-70.3975,401096,America/Santiago,-03:00,-04:00,True,1868,Founded
+Valparaiso,Chile,-33.0472,-71.6127,282448,America/Santiago,-03:00,-04:00,True,1536,Founded
+Temuco,Chile,-38.7359,-72.5904,238129,America/Santiago,-03:00,-04:00,True,,
+La Serena,Chile,-29.9027,-71.2519,154521,America/Santiago,-03:00,-04:00,True,,
+Punta Arenas,Chile,-53.1638,-70.9171,117430,America/Punta_Arenas,-03:00,-03:00,False,1848,Founded
+Iquique,Chile,-20.2208,-70.1431,199587,America/Santiago,-03:00,-04:00,True,,
+Piura,Peru,-5.1945,-80.6328,630000,America/Lima,-05:00,-05:00,False,,
+Chiclayo,Peru,-6.7714,-79.8409,609400,America/Lima,-05:00,-05:00,False,,
+Cusco,Peru,-13.5319,-71.9675,428450,America/Lima,-05:00,-05:00,False,1100,Traditional founding date as the Inca capital
+Huancayo,Peru,-12.0651,-75.2049,456250,America/Lima,-05:00,-05:00,False,,
+Pereira,Colombia,4.8143,-75.6946,467269,America/Bogota,-05:00,-05:00,False,,
+Manizales,Colombia,5.07,-75.5138,434403,America/Bogota,-05:00,-05:00,False,,
+Ibague,Colombia,4.4389,-75.2322,529635,America/Bogota,-05:00,-05:00,False,,
+Villavicencio,Colombia,4.142,-73.6266,321717,America/Bogota,-05:00,-05:00,False,,
+Santa Marta,Colombia,11.2408,-74.199,499192,America/Bogota,-05:00,-05:00,False,,
+Maracay,Venezuela,10.2469,-67.5959,464700,America/Caracas,-04:00,-04:00,False,1701,Founded
+Barquisimeto,Venezuela,10.0647,-69.3229,1240714,America/Caracas,-04:00,-04:00,False,1552,Founded
+Ciudad Guayana,Venezuela,8.3533,-62.6528,978202,America/Caracas,-04:00,-04:00,False,,
+Merida,Venezuela,8.592,-71.1636,300000,America/Caracas,-04:00,-04:00,False,,
+Machala,Ecuador,-3.2581,-79.9553,289141,America/Guayaquil,-05:00,-05:00,False,,
+Cuenca,Ecuador,-2.9001,-79.0059,636996,America/Guayaquil,-05:00,-05:00,False,1557,Founded by the Spanish
+Ambato,Ecuador,-1.2543,-78.6229,387309,America/Guayaquil,-05:00,-05:00,False,,
+Loja,Ecuador,-3.9931,-79.2042,274112,America/Guayaquil,-05:00,-05:00,False,,
+Manta,Ecuador,-0.95,-80.7333,264281,America/Guayaquil,-05:00,-05:00,False,,
+Cochabamba,Bolivia,-17.3895,-66.1568,841276,America/La_Paz,-04:00,-04:00,False,1571,Founded
+Oruro,Bolivia,-17.9833,-67.15,208684,America/La_Paz,-04:00,-04:00,False,1606,Founded
+Tarija,Bolivia,-21.5355,-64.7296,159269,America/La_Paz,-04:00,-04:00,False,,
+Potosi,Bolivia,-19.5836,-65.7531,141251,America/La_Paz,-04:00,-04:00,False,1545,Founded after silver discovery
+Ciudad del Este,Paraguay,-25.5163,-54.6114,301815,America/Asuncion,-03:00,-03:00,False,,
+Encarnacion,Paraguay,-27.3306,-55.8664,74983,America/Asuncion,-03:00,-03:00,False,,
+Salto,Uruguay,-31.3833,-57.9667,114084,America/Montevideo,-03:00,-03:00,False,,
+Punta del Este,Uruguay,-34.9667,-54.95,18193,America/Montevideo,-03:00,-03:00,False,,
+Basra Metro,Iraq,30.5085,47.7835,1326564,Asia/Baghdad,+03:00,+03:00,False,,
+Ramallah,Palestine,31.9038,35.2034,43880,Asia/Hebron,+02:00,+03:00,True,,
+Gaza City,Palestine,31.5017,34.4668,410000,Asia/Gaza,+02:00,+03:00,True,,
+Hebron,Palestine,31.5326,35.0998,160470,Asia/Hebron,+02:00,+03:00,True,,
+Nablus,Palestine,32.2211,35.2544,130326,Asia/Hebron,+02:00,+03:00,True,72,Founded as Roman Flavia Neapolis
+Haifa,Israel,32.794,34.9896,285316,Asia/Jerusalem,+02:00,+03:00,True,,
+Eilat,Israel,29.5581,34.9482,52299,Asia/Jerusalem,+02:00,+03:00,True,1951,Founded
+Aqaba,Jordan,29.5321,35.0063,95048,Asia/Amman,+03:00,+03:00,False,,
+Irbid,Jordan,32.5556,35.85,569068,Asia/Amman,+03:00,+03:00,False,,
+Zarqa,Jordan,32.0728,36.0876,792665,Asia/Amman,+03:00,+03:00,False,,
+Sidon,Lebanon,33.5606,35.3758,163554,Asia/Beirut,+02:00,+03:00,True,,
