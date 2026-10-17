@@ -163,7 +163,6 @@ Brisbane,Australia,-27.4698,153.0251,2780063,Australia/Brisbane,+10:00,+10:00,Fa
 Tashkent,Uzbekistan,41.2995,69.2401,1978028,Asia/Tashkent,+05:00,+05:00,False,,
 Zibo,China,36.8131,118.0549,3129228,Asia/Shanghai,+08:00,+08:00,False,,
 Prague,Czech Republic,50.0755,14.4378,1165581,Europe/Prague,+01:00,+02:00,True,880,Prague Castle founded
-Nairobi Metro,Kenya,-1.3,36.85,4397073,Africa/Nairobi,+03:00,+03:00,False,,
 Bucharest,Romania,44.4268,26.1025,1877155,Europe/Bucharest,+02:00,+03:00,True,1459,First documented mention
 Denver,United States,39.7392,-104.9903,729019,America/Denver,-07:00,-06:00,True,1858,Founded
 Auckland,New Zealand,-36.8485,174.7633,1547200,Pacific/Auckland,+13:00,+12:00,True,1840,Founded
@@ -459,7 +458,6 @@ Raleigh,United States,35.7796,-78.6382,482295,America/New_York,-05:00,-04:00,Tru
 Long Beach,United States,33.7701,-118.1937,474140,America/Los_Angeles,-08:00,-07:00,True,,
 Virginia Beach,United States,36.8529,-75.978,454808,America/New_York,-05:00,-04:00,True,,
 Oakland,United States,37.8044,-122.2712,419267,America/Los_Angeles,-08:00,-07:00,True,1852,Incorporated
-Minneapolis Metro,United States,44.9778,-93.265,410939,America/Chicago,-06:00,-05:00,True,,
 Tulsa,United States,36.154,-95.9928,413066,America/Chicago,-06:00,-05:00,True,,
 Tampa,United States,27.9506,-82.4572,414547,America/New_York,-05:00,-04:00,True,,
 New Orleans,United States,29.9511,-90.0715,362701,America/Chicago,-06:00,-05:00,True,1718,Founded by the French
@@ -555,7 +553,6 @@ Bulawayo,Zimbabwe,-20.15,28.5833,665952,Africa/Harare,+02:00,+02:00,False,1840,F
 Beira,Mozambique,-19.8436,34.8389,687764,Africa/Maputo,+02:00,+02:00,False,1890,Founded
 Livingstone,Zambia,-17.8419,25.8543,178361,Africa/Lusaka,+02:00,+02:00,False,,
 Ndola,Zambia,-12.9587,28.6366,627503,Africa/Lusaka,+02:00,+02:00,False,,
-Gaborone Metro,Botswana,-24.6282,25.9231,246325,Africa/Gaborone,+02:00,+02:00,False,,
 Walvis Bay,Namibia,-22.9575,14.5053,73598,Africa/Windhoek,+02:00,+02:00,False,,
 Durban,South Africa,-29.8587,31.0218,3338026,Africa/Johannesburg,+02:00,+02:00,False,1824,Founded
 Pretoria,South Africa,-25.7479,28.2293,2112693,Africa/Johannesburg,+02:00,+02:00,False,1855,Founded
@@ -586,7 +583,6 @@ Malabo,Equatorial Guinea,3.7523,8.7742,155963,Africa/Malabo,+01:00,+01:00,False,
 Sao Tome,Sao Tome and Principe,0.3365,6.7273,53300,Africa/Sao_Tome,+00:00,+00:00,False,1493,Founded by the Portuguese
 Porto-Novo,Benin,6.4969,2.6289,264320,Africa/Porto-Novo,+01:00,+01:00,False,,
 Cotonou,Benin,6.3703,2.3912,679012,Africa/Porto-Novo,+01:00,+01:00,False,,
-Lome Metro,Togo,6.1319,1.2228,2188376,Africa/Lome,+00:00,+00:00,False,,
 Kumasi,Ghana,6.6885,-1.6244,2544530,Africa/Accra,+00:00,+00:00,False,1680,Founded as the Ashanti capital
 Tamale,Ghana,9.4008,-0.8393,464316,Africa/Accra,+00:00,+00:00,False,,
 Abuja,Nigeria,9.0765,7.3986,2690000,Africa/Lagos,+01:00,+01:00,False,1976,Founded as a planned capital
@@ -687,7 +683,6 @@ Petropavlovsk-Kamchatsky,Russia,53.0195,158.6499,181216,Asia/Kamchatka,+12:00,+1
 Magadan,Russia,59.5638,150.8039,92782,Asia/Magadan,+11:00,+11:00,False,1929,Founded
 Yuzhno-Sakhalinsk,Russia,46.9591,142.7383,198973,Asia/Sakhalin,+11:00,+11:00,False,1882,Founded as Vladimirovka
 Norilsk,Russia,69.3535,88.2027,140800,Asia/Krasnoyarsk,+07:00,+07:00,False,1935,Founded
-Ekaterinburg Metro,Russia,56.8389,60.6057,1495066,Asia/Yekaterinburg,+05:00,+05:00,False,,
 Cardiff,United Kingdom,51.4816,-3.1791,372089,Europe/London,+00:00,+01:00,True,1081,Norman castle built
 Belfast,United Kingdom,54.5973,-5.9301,348005,Europe/London,+00:00,+01:00,True,1177,Norman castle built
 Nottingham,United Kingdom,52.9548,-1.1581,323632,Europe/London,+00:00,+01:00,True,,
@@ -763,7 +758,6 @@ Espoo,Finland,60.2055,24.6559,323910,Europe/Helsinki,+02:00,+03:00,True,,
 Cork,Ireland,51.8985,-8.4756,224004,Europe/Dublin,+00:00,+01:00,True,600,Founded as a monastic settlement by Saint Finbarr
 Galway,Ireland,53.2707,-9.0568,85910,Europe/Dublin,+00:00,+01:00,True,1124,"Castle built, town founded"
 Limerick,Ireland,52.6638,-8.6267,102287,Europe/Dublin,+00:00,+01:00,True,,
-Katowice Metro,Poland,50.2649,19.0238,286960,Europe/Warsaw,+01:00,+02:00,True,,
 Szczecin,Poland,53.4285,14.5528,395513,Europe/Warsaw,+01:00,+02:00,True,,
 Bydgoszcz,Poland,53.1235,18.0084,330038,Europe/Warsaw,+01:00,+02:00,True,,
 Lublin,Poland,51.2465,22.5684,336339,Europe/Warsaw,+01:00,+02:00,True,1213,First documented mention
@@ -801,7 +795,6 @@ Salzburg,Austria,47.8095,13.055,157245,Europe/Vienna,+01:00,+02:00,True,696,Foun
 Graz,Austria,47.0707,15.4395,303270,Europe/Vienna,+01:00,+02:00,True,1128,First documented mention
 Linz,Austria,48.3069,14.2858,204846,Europe/Vienna,+01:00,+02:00,True,,
 Innsbruck,Austria,47.2692,11.4041,132493,Europe/Vienna,+01:00,+02:00,True,,
-Kagoshima Metro,Japan,31.5966,130.5571,595049,Asia/Tokyo,+09:00,+09:00,False,,
 Utsunomiya,Japan,36.5658,139.8836,518757,Asia/Tokyo,+09:00,+09:00,False,,
 Matsuyama,Japan,33.8392,132.7657,511192,Asia/Tokyo,+09:00,+09:00,False,,
 Kanazawa,Japan,36.5613,136.6562,466029,Asia/Tokyo,+09:00,+09:00,False,,
@@ -873,12 +866,10 @@ Yulin,China,22.654,110.181,1056743,Asia/Shanghai,+08:00,+08:00,False,,
 Baoding,China,38.8671,115.4646,2739887,Asia/Shanghai,+08:00,+08:00,False,,
 Tangshan,China,39.6304,118.1802,3372102,Asia/Shanghai,+08:00,+08:00,False,,
 Qinhuangdao,China,39.9354,119.5867,759718,Asia/Shanghai,+08:00,+08:00,False,,
-Handan Metro,China,36.625,114.5391,1358318,Asia/Shanghai,+08:00,+08:00,False,,
 Xingtai,China,37.0682,114.4995,798770,Asia/Shanghai,+08:00,+08:00,False,,
 Shijiazhuang,China,38.0428,114.5149,3938513,Asia/Shanghai,+08:00,+08:00,False,,
 Cangzhou,China,38.3037,116.8388,527681,Asia/Shanghai,+08:00,+08:00,False,,
 Hengshui,China,37.7361,115.701,522147,Asia/Shanghai,+08:00,+08:00,False,,
-Datong Metro,China,40.0768,113.3001,1850000,Asia/Shanghai,+08:00,+08:00,False,,
 Taiyuan,China,37.8706,112.5489,4303673,Asia/Shanghai,+08:00,+08:00,False,,
 Changzhi,China,36.1955,113.116,1214940,Asia/Shanghai,+08:00,+08:00,False,,
 Yuncheng,China,35.0267,111.0069,680036,Asia/Shanghai,+08:00,+08:00,False,,
@@ -936,7 +927,6 @@ Irvine,United States,33.6846,-117.8265,256927,America/Los_Angeles,-08:00,-07:00,
 Santa Ana,United States,33.7455,-117.8677,310227,America/Los_Angeles,-08:00,-07:00,True,,
 Chula Vista,United States,32.6401,-117.0842,265757,America/Los_Angeles,-08:00,-07:00,True,,
 Fremont,United States,37.5485,-121.9886,232206,America/Los_Angeles,-08:00,-07:00,True,,
-Winnipeg Metro,Canada,49.8951,-97.1384,749607,America/Winnipeg,-06:00,-05:00,True,,
 Kelowna,Canada,49.888,-119.496,144576,America/Vancouver,-08:00,-07:00,True,1892,Founded
 London,Canada,42.9849,-81.2453,422324,America/Toronto,-05:00,-04:00,True,1826,Founded
 Kitchener,Canada,43.4516,-80.4925,256885,America/Toronto,-05:00,-04:00,True,,
@@ -985,7 +975,6 @@ Ciudad del Este,Paraguay,-25.5163,-54.6114,301815,America/Asuncion,-03:00,-03:00
 Encarnacion,Paraguay,-27.3306,-55.8664,74983,America/Asuncion,-03:00,-03:00,False,,
 Salto,Uruguay,-31.3833,-57.9667,114084,America/Montevideo,-03:00,-03:00,False,,
 Punta del Este,Uruguay,-34.9667,-54.95,18193,America/Montevideo,-03:00,-03:00,False,,
-Basra Metro,Iraq,30.5085,47.7835,1326564,Asia/Baghdad,+03:00,+03:00,False,,
 Ramallah,Palestine,31.9038,35.2034,43880,Asia/Hebron,+02:00,+03:00,True,,
 Gaza City,Palestine,31.5017,34.4668,410000,Asia/Gaza,+02:00,+03:00,True,,
 Hebron,Palestine,31.5326,35.0998,160470,Asia/Hebron,+02:00,+03:00,True,,
